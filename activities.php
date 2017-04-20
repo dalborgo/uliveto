@@ -29,60 +29,7 @@
 
 </head>
 <body>
-<!-- .hidden-bar -->
-    <section class="top-bar dhomev">
-        <div class="container">
-            <div class="pull-left left-infos contact-infos">
-                <ul class="list-inline">
-                    <li>
-                        <a href="#"><i class="fa fa-phone"></i> (+39) 3468689410</a>
-                    </li><!-- comment for inline hack
-                     --><li>
-                        <a href="#"><i class="fa fa-map-marker"></i> Via Monte Baldo, 35 - 37016 GARDA (Vr) Italy</a>
-                    </li><!-- comment for inline hack
-                     --><li>
-                        <a href="#"><i class="fa fa-envelope"></i> info@residenceuliveto.it</a>
-                    </li>
-                </ul>
-            </div><!-- /.pull-left left-infos -->
-        </div><!-- /.container -->
-    </section><!-- /.top-bar -->
-
-    <nav class="navbar navbar-default  _fixed-header _light-header stricky" id="main-navigation-wrapper">
-        <div class="container">
-            <div class="navbar-header">
-                <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#main-navigation" aria-expanded="false">
-                    <span class="sr-only">Toggle navigation</span>
-                    <span class="icon-bar"></span>
-                    <span class="icon-bar"></span>
-                    <span class="icon-bar"></span>
-                </button>
-                <a href="index.html" class="navbar-brand">
-                    <img alt="Awesome Image" src="images/header/logo2.png">
-                </a>
-            </div>
-
-            <div class="collapse navbar-collapse" id="main-navigation">
-                <ul class="nav navbar-nav ">
-                    <li><a href="#">Home</a></li>
-                    <li><a href="#">Residence</a></li>
-                    <li><a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Appartamenti<span class="glyphicon glyphicon-chevron-down"></span></a>
-						<ul class="dropdown-submenu dropdown-menu">
-							<li><a href="#">Monolocale</a></li>
-							<li><a href="#">Bilocale</a></li>
-                            <li><a href="#">Trilocale</a></li>
-                            <li><a href="#">Quadrilocale</a></li>
-						</ul>
-                    </li>
-                    <li><a href="#">Luoghi ed eventi</a></li>
-                    <li><a href="#">Dove siamo</a></li>
-                    <li><a href="#">Contatti</a></li>
-                </ul>
-            </div>
-        </div>
-    </nav>
-
-<!-- Header  Slider style-->
+<?php include_once "header.php" ?>
 
  <!-- Header  Inner style-->
  <section class="row final-inner-header">
@@ -206,87 +153,7 @@
     
  <!-- Welcome banner  style-->
     
- <!-- footer  style-->
-  
-  <footer>
-<section class="clearfix footer-wrapper">
-<section class="container clearfix footer-pad">   
-
-<div class="widget about-us-widget col-md-4 col-sm-6">
- <a href="index.html"><img src="images/footer/logo.png" alt="" class="img-responsive"></a>
-
-  <p>Posto all’interno di un grande parco di Ulivi Secolari (1500 mq), a pochi passi da centro storico di Garda e a 300 metri dalle spiagge del Lago.</p>
-
-</div>
-
-    <div class="widget get-in-touch col-md-4 col-sm-6">
-        <h4 class="widget_title">Dove siamo</h4>
-        <div class="widget-contact-list">
-            <ul>
-                <li>
-                    <i class="fa fa-map-marker"></i>
-                    <div class="fleft location_address">
-                        <b>Residence Uliveto</b><br>Via Monte Baldo, 35 - 37016 Garda (Vr), Italy
-                    </div>
-
-                </li>
-                <li>
-                    <i class="fa fa-phone"></i>
-                    <div class="fleft contact_no">
-                        <a href="tel:+018655248503">Tel. +39 346 8689410</a>  /  <a href="tel:+12549547854">Fax +39 045 6270477</a>
-                    </div>
-                </li>
-                <li>
-                    <i class="fa fa-envelope-o"></i>
-                    <div class="fleft contact_mail">
-                        <a href="mailto:info@resorthotel.com">info@residenceuliveto.it</a>
-                    </div>
-                </li>
-
-            </ul>
-        </div>
-    </div>
- <div class="widget get-in-touch col-md-4 col-sm-6">
- <h4 class="widget_title">Dove siamo</h4>
-     <div class="widget-contact-list">
-     <ul>
-                    <li>
-                        <i class="fa fa-map-marker"></i>
-                        <div class="fleft location_address">
-                            <b>Residence Uliveto</b><br>Via Monte Baldo, 35 - 37016 Garda (Vr), Italy
-                        </div>
-
-                    </li>
-                    <li>
-                        <i class="fa fa-phone"></i>
-                        <div class="fleft contact_no">
-                            <a href="tel:+018655248503">Tel. +39 346 8689410</a>  /  <a href="tel:+12549547854">Fax +39 045 6270477</a>
-                        </div>
-                    </li>
-                    <li>
-                        <i class="fa fa-envelope-o"></i>
-                        <div class="fleft contact_mail">
-                            <a href="mailto:info@resorthotel.com">info@residenceuliveto.it</a>
-                        </div>
-                    </li>
-
-                </ul>
-     </div>
-</div>
-</section>
-</section> 
-<section class="container clearfix footer-b-pad">
-<div class="footer-copy"><div class="pull-left fo-txt">
-           <p>Copyright © R.O.GY Sas di Gelmetti Giuditta e C. - P.IVA e C.F. 01648990230 Via Tiziano, 1/3 -37016 Garda (Vr) </p>
-       </div>
-<div class="pull-right fo-txt">
-           <p>Design by: <a href="http://www.asten.it">Asten Srl</a></p>
-       </div>
-
-</div>
-</section> 
-</footer>   
- <!-- footer  style-->
+ <?php include_once "footer.php" ?>
 <script src="js/jquery-2.2.4.min.js"></script>
 <script src="js/bootstrap.min.js"></script>
 <script type="text/javascript" src="js/jquery.bxslider.js"></script>

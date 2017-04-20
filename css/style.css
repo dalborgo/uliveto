@@ -8881,13 +8881,13 @@ body {
   padding: 13.5px 0;
 }
 .top-bar.home3v, .top-bar.dhomev {
-  background: #1f2e46;
+  background: #146E4E;
 }
 .top-bar.home3v ul li a, .top-bar.home3v .contact-infos ul li a, .top-bar.dhomev ul li a, .top-bar.dhomev .contact-infos ul li a {
-  color: #a4b6d1;
+  color: #fff;
 }
 .top-bar.home3v ul li a i, .top-bar.home3v .contact-infos ul li a i, .top-bar.dhomev ul li a i, .top-bar.dhomev .contact-infos ul li a i {
-  color: #a4b6d1;
+  color: #fff;
 }
 .top-bar.home3v .link-list ul li + li, .top-bar.dhomev .link-list ul li + li {
   border-left: 1px solid #a4b6d1;
@@ -8951,8 +8951,10 @@ body {
 .navbar-brand {
   transition: none;
 }
+
 .navbar-brand img {
   vertical-align: top;
+  max-height: 100px;                                                            /*modificato*/
 }
 
 #main-navigation-wrapper.navbar-default {
@@ -9015,7 +9017,7 @@ body {
   }
 }
 #main-navigation-wrapper.navbar-default.stricky-fixed {
-  max-height: 70px;
+  /*max-height: 70px;                                                       modificato*/
 }
 #main-navigation-wrapper.navbar-default.stricky-fixed .navbar-brand {
   padding-top: 10px;
@@ -9032,12 +9034,12 @@ body {
   }
 }
 #main-navigation-wrapper.navbar-default.stricky-fixed .navbar-brand img {
-  max-height: 45px;
+  max-height: 80px;                                                                                 /*modificato*/
   display: inline-block;
 }
 @media (max-width: 767px) {
   #main-navigation-wrapper.navbar-default.stricky-fixed .navbar-brand img {
-    max-height: 37px;
+    max-height: 60px;                                                                               /*modificato*/
   }
 }
 #main-navigation-wrapper.navbar-default.stricky-fixed .nav > li {
@@ -9086,8 +9088,7 @@ body {
 }
 
 #main-navigation-wrapper .navbar-nav {
-  margin-left: 0;
-  margin-right: 0;
+  margin: 14px 0;                                                     /*modificato*/
   display: inline-block;
   vertical-align: middle;
   text-align: right;
@@ -9191,8 +9192,7 @@ body {
 }
 
 #main-navigation-wrapper .navbar-brand {
-  padding-top: 26px;
-  padding-bottom: 26px;
+  /*modificato*/
 }
 @media (max-width: 767px) {
   #main-navigation-wrapper .navbar-brand {
@@ -9516,7 +9516,7 @@ body {
     margin-right: 0;
     border-color: #515151;
     background-color: transparent !important;
-    margin: 43px 0;
+    margin: 57px 0;                                                                        /* modificato*/
   }
 
   .navbar-default .navbar-toggle .icon-bar {
@@ -9654,7 +9654,7 @@ body {
   }
 
   .stricky-fixed.navbar-default .navbar-toggle {
-    margin: 27.5px 0;
+    margin: 41.5px 0;                         /*modificato*/
   }
 
   #main-navigation-wrapper .navbar-nav > li.open > .dropdown-submenu {
@@ -9677,7 +9677,7 @@ body {
   }
 
   .stricky-fixed.navbar-default .navbar-toggle {
-    margin: 17.5px 0;
+    margin: 27.5px 0;
   }
 }
 /*Inner Header*/
@@ -9701,7 +9701,7 @@ body {
   margin: 0;
   letter-spacing: 0.3px;
   font-family: "Playball", cursive;
-  text-transform: capitalize;
+  /*text-transform: capitalize;                 modificato*/
   font-size: 55px;
   color: #fff;
 }
