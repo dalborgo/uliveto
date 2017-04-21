@@ -34,7 +34,6 @@
             <div class="collapse navbar-collapse" id="main-navigation">
                 <ul class="nav navbar-nav ">
                     <li><a href="#">Home</a></li>
-                    <li><a href="#">Residence</a></li>
                     <li><a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Appartamenti<span class="glyphicon glyphicon-chevron-down"></span></a>
 						<ul class="dropdown-submenu dropdown-menu">
 							<li><a href="#">Monolocale</a></li>
@@ -44,6 +43,7 @@
 						</ul>
                     </li>
                     <li><a href="#">Luoghi ed eventi</a></li>
+                    <li><a href="gallery.php">Galleria</a></li>
                     <li><a href="#">Dove siamo</a></li>
                     <li><a href="#">Contatti</a></li>
                 </ul>

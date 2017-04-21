@@ -140,7 +140,7 @@ html {
 }
 
 .res-btn:hover {
-  background: #ffb606;
+  background: #642123 none repeat scroll 0 0;
   color: #fff;
 }
 
@@ -2244,7 +2244,7 @@ footer {
 }
 
 .widget-contact-list ul li a:hover {
-  color: #85ab00;
+  color: #fff;
 }
 
 .widget.get-in-touch ul {
@@ -3858,7 +3858,7 @@ blockquote footer a {
 
 .gallery-filter li.active span,
 .gallery-filter li:hover span {
-  color: #127FCE;
+  color: #146E4E;
 }
 
 .gallery-filter li.active span:after,
@@ -3987,7 +3987,7 @@ blockquote footer a {
   left: 10px;
   right: 10px;
   bottom: 10px;
-  background: rgba(133, 171, 0, 0.9);
+  background: rgba(20, 110, 78, 0.9) none repeat scroll 0 0;
   opacity: 0;
   -webkit-transform: scale(0);
   -moz-transform: scale(0);
@@ -5720,12 +5720,12 @@ blockquote footer a {
 }
 
 .activities-content .res-btn {
-  background: #85ab00;
+  background: #146E4E none repeat scroll 0 0;
   padding: 0.5em 1.7em;
 }
 
 .activities-content .res-btn:hover {
-  background: #ffb606;
+  background: #642123 none repeat scroll 0 0;
 }
 
 .activities-main p {
@@ -7903,7 +7903,7 @@ body {
 /*Subscribe Form*/
 .nasir-subscribe-form-row {
   padding: 11px 0;
-  background: #85ab00;
+  background: #146E4E none repeat scroll 0 0;
   margin: 0;
 }
 .nasir-subscribe-form-row .this-dashed {
@@ -9100,7 +9100,7 @@ body {
 #main-navigation-wrapper.navbar-default .navbar-nav > .open > a:hover,
 #main-navigation-wrapper.navbar-default .navbar-nav > li:hover > a {
   background: none;
-  color: #C4D114;
+  color: #146E4E;
 }
 
 #main-navigation-wrapper .navbar-form {
@@ -10006,3 +10006,32 @@ body {
 }
 
 /*# sourceMappingURL=style.css.map */
+.activities-content h2::after {
+  background: #146E4E none repeat scroll 0 0;
+
+}
+
+.final-inner-header .this-title::after {
+  background: #146E4E none repeat scroll 0 0;
+
+}
+
+.sec-header3 h3::after {
+  background: #146E4E none repeat scroll 0 0;
+
+}
+
+.widget-contact h4::after, .get-in-touch h4::after, .widget-links h4::after {
+  background: #146E4E none repeat scroll 0 0;
+
+}
+
+.gallery-filter li span::after {
+  background: #146E4E none repeat scroll 0 0;
+
+}
+
+.gallery-filter li span::before {
+  background: #146E4E none repeat scroll 0 0;
+
+}
