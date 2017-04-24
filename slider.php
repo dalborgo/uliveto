@@ -1,11 +1,15 @@
 <?php
-function getImg($nome,$t='q')
+function getImg($nome, $filter, $verso = 'q', $span=4, $right=false)
 {
-    $item = '<a rel="help" data-imagelightbox="g" href="images/galleria/' . $nome . '.jpg">
+    $folder = 'galleria-test';
+    $dir=($right)?'single-r-gallery':'';
+    $item = '<div class="single-gallery ' . $dir . ' anim-5-all ' . $filter . ' mix span-' . $span . '">
+    <a rel="help" data-imagelightbox="g" href="images/' . $folder . '/' . $nome . '.jpg">
                         <div class="img-holder">
-                            <img src="images/galleria/' . $t.$nome . '_tn.jpg" alt="">
+                            <img src="images/' . $folder . '/' . $verso . $nome . '_tn.jpg" alt="">
                         </div>
-                    </a>';
+                    </a>
+                    </div>';
     return $item;
 }
 
