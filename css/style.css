@@ -126,7 +126,7 @@ html {
 .res-btn {
   border: none;
   outline: none;
-  background: #1a1a1c;
+  background: #146e4e none repeat scroll 0 0;
   font-size: 14px;
   line-height: 28px;
   color: #fff;
@@ -5146,7 +5146,7 @@ blockquote footer a {
 }
 
 .fullwidth-slider.owl-carousel .owl-controls .owl-nav .owl-prev, .fullwidth-slider.owl-carousel .owl-controls .owl-nav .owl-next {
-  background: #a9c449;
+  background: #146E4E none repeat scroll 0 0;
   width: 33px;
   text-align: center;
   font-size: 20px;
@@ -5420,12 +5420,12 @@ blockquote footer a {
 }
 
 .room-suite-htwo .ro-text-two .left-p-two .res-btn {
-  background: #85ab00;
+  background: #146E4E none repeat scroll 0 0;
   padding: 0.5em 2em;
 }
 
 .room-suite-htwo .ro-text-two .left-p-two .res-btn:hover {
-  background: #1a1a1c;
+  background: #642123 none repeat scroll 0 0;
 }
 
 .room-suite-htwo .ro-text-two .right-p-two p {
@@ -5458,7 +5458,7 @@ blockquote footer a {
 }
 
 .roomsuite-slider-two.owl-carousel .owl-controls .owl-nav .owl-prev, .roomsuite-slider-two.owl-carousel .owl-controls .owl-nav .owl-next {
-  background: #a9c449;
+  background: #146E4E none repeat scroll 0 0;
   width: 33px;
   text-align: center;
   font-size: 20px;
@@ -7184,7 +7184,7 @@ body {
   position: relative;
 }
 .room-and-suits-style:before {
-  background: url(../images/rooms-suits.jpg) no-repeat fixed center center #27283b;
+  background: url(../images/galleria/IMG_1832.jpg) no-repeat fixed center center greenyellow;
   background-size: cover;
   background-blend-mode: multiply;
   opacity: 0.2;
@@ -10033,5 +10033,20 @@ body {
 
 .gallery-filter li span::before {
   background: #146E4E none repeat scroll 0 0;
+
+}
+
+.room-suite-htwo .item .ro-txt h2::after {
+  background: #146E4E none repeat scroll 0 0;
+
+}
+
+.sec-header h3::after {
+  background: #146E4E none repeat scroll 0 0;
+
+}
+
+.fullwidth-slider.owl-theme .owl-controls .owl-nav [class*="owl-"]:hover {
+  background: #642123 none repeat scroll 0 0;
 
 }
