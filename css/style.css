@@ -1226,7 +1226,7 @@ header {
   width: 60px;
   height: 2px;
   display: inline-block;
-  background: #a7cc38;
+  background: #146E4E;
   margin: 0 0 0 12px;
 }
 
@@ -1257,7 +1257,7 @@ header {
   width: 60px;
   height: 2px;
   display: inline-block;
-  background: #a7cc38;
+  background: #146E4E;
   margin: 0 0 0 12px;
 }
 
@@ -2226,7 +2226,7 @@ footer {
   content: '';
   width: 40px;
   height: 2px;
-  background: #85ab00;
+  background: #146E4E;
   display: block;
   margin-top: 13px;
 }
@@ -3884,7 +3884,7 @@ blockquote footer a {
   content: ' ';
   width: 0%;
   height: 1px;
-  background: #127FCE;
+  background: #146E4E;
   position: absolute;
   top: -1px;
   left: 0;
@@ -3896,7 +3896,7 @@ blockquote footer a {
   content: ' ';
   width: 0%;
   height: 1px;
-  background: #127FCE;
+  background: #146E4E;
   position: absolute;
   bottom: -1px;
   left: 0;
@@ -5389,7 +5389,7 @@ blockquote footer a {
   width: 35px;
   height: 2px;
   display: inline-block;
-  background: #a7cc38;
+  background: #146E4E;
   margin: 0 0 0 12px;
 }
 
@@ -5708,7 +5708,7 @@ blockquote footer a {
   width: 60px;
   height: 2px;
   display: inline-block;
-  background: #a7cc38;
+  background: #146E4E;
   margin: 0 0 0 12px;
 }
 
@@ -9709,7 +9709,7 @@ body {
   content: '';
   width: 60px;
   height: 2px;
-  background: #92ba19;
+  background: #146E4E;
   display: inline-block;
   margin-left: 20px;
 }
@@ -10006,7 +10006,7 @@ body {
 }
 
 /*# sourceMappingURL=style.css.map */
-.activities-content h2::after {
+/*.activities-content h2::after {
   background: #146E4E none repeat scroll 0 0;
 
 }
@@ -10044,4 +10044,4 @@ body {
 .sec-header h3::after {
   background: #146E4E none repeat scroll 0 0;
 
-}
+}*/
