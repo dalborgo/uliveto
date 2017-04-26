@@ -79,7 +79,7 @@
         <div class="row">
             <!-- .image-gallery -->
             <div class="image-gallery" data-filter-class="gallery-sorter">
-                <?= getImg('1', 'piscina') ?>
+                <?= getImg('1', 'piscina esterni') ?>
                 <?= getImg('6', 'piscina', 'h', 8) ?>
                 <?= getImg('7', 'piscina', 'v', 4) ?>
                 <?= getImg('2', 'piscina') ?>
