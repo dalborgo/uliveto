@@ -5161,7 +5161,7 @@ blockquote footer a {
 }
 
 .fullwidth-slider.owl-theme .owl-controls .owl-nav [class*=owl-]:hover {
-  background: #85ab00;
+  background: #642123;
   color: #fff;
   text-decoration: none;
 }
@@ -10043,10 +10043,5 @@ body {
 
 .sec-header h3::after {
   background: #146E4E none repeat scroll 0 0;
-
-}
-
-.fullwidth-slider.owl-theme .owl-controls .owl-nav [class*="owl-"]:hover {
-  background: #642123 none repeat scroll 0 0;
 
 }
