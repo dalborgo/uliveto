@@ -59,7 +59,9 @@
                         <h2>Vinitaly</h2>
                         <h5>(Marzo - Aprile)</h5>
                         <p>La fiera internazionale dei vini e dei distillati.</p>
+                       <!--
                         <a href="suite-room.html" class="res-btn">See all places <i class="fa fa-arrow-right"></i></a>
+                        -->
                     </div>
                 </div>
             </div>
@@ -72,7 +74,7 @@
                         <h2>Fieracavalli </h2>
                         <h5>(Novembre)</h5>
                         <p>L'evento internazionale del settore ippico.</p>
-                        <a href="family-fun.html" class="res-btn">See all places <i class="fa fa-arrow-right"></i></a>
+                        
                     </div>
                 </div>
             </div>
@@ -86,7 +88,7 @@
                         <h2>Marmomacc</h2>
                         <h5>(Settembre)</h5>
                         <p>Fiera di marmi, pietre e tecnologie.</p>
-                        <a href="tracing.html" class="res-btn">See all places <i class="fa fa-arrow-right"></i></a>
+
                     </div>
                 </div>
             </div>
@@ -100,7 +102,7 @@
                         <h5>(Ottobre)</h5>
                         <p>La fiera dell'arredamento d'interni. Per informazioni sulle fiere di Verona consulta il sito
                             <a href="http://www.veronafiere.it/" class="linkp">veronafiere</a>.</p>
-                        <a href="suite-room.html" class="res-btn">See all places <i class="fa fa-arrow-right"></i></a>
+
                     </div>
                 </div>
             </div>
@@ -114,14 +116,14 @@
                         <h2>Parchi divertimenti</h2>
                         <p>
                         <ul>
-                            <li style="margin-bottom: 10px"><a href="http://www.gardaland.it/">Gardaland</a> - Tel. +39.045.6449777 - Castelnuovo del Garda a 12 km</li>
-                            <li style="margin-bottom: 10px"><a href="http://www.movieland.it/">Movie Studios</a> - Tel. +39.045.6969900 - Lazise a 7,5 km</li>
-                            <li style="margin-bottom: 10px"><a href="http://www.canevaworld.it/">Canevaworld</a> - Tel. +39.045.6969900 - Lazise a 7,5 km</li>
-                            <li style="margin-bottom: 10px"><a href="http://www.jungleadventure.it/">Jungle Adventure</a> - Tel. +39.045.6289306 - S.Zeno di Montagna a 8,8 km</li>
-                            <li style="margin-bottom: 10px"><a href="http://www.parconaturaviva.it/">Parco natura viva</a> - Tel. +39.045.7170113 - Bussolengo a 15 km</li>
+                            <li><a href="http://www.gardaland.it/">Gardaland</a> - Tel. +39.045.6449777 - Castelnuovo del Garda a 12 km</li>
+                            <li><a href="http://www.movieland.it/">Movie Studios</a> - Tel. +39.045.6969900 - Lazise a 7,5 km</li>
+                            <li><a href="http://www.canevaworld.it/">Canevaworld</a> - Tel. +39.045.6969900 - Lazise a 7,5 km</li>
+                            <li><a href="http://www.jungleadventure.it/">Jungle Adventure</a> - Tel. +39.045.6289306 - S.Zeno di Montagna a 8,8 km</li>
+                            <li><a href="http://www.parconaturaviva.it/">Parco natura viva</a> - Tel. +39.045.7170113 - Bussolengo a 15 km</li>
                         </ul>
                         </p>
-                        <a href="suite-room.html" class="res-btn">See all places <i class="fa fa-arrow-right"></i></a>
+
                     </div>
                 </div>
             </div>
@@ -134,13 +136,13 @@
                         <h2>Terme e relax</h2>
                         <p>
                         <ul>
-                            <li style="margin-bottom: 10px"><a href="http://www.villadeicedri.it/">Villa dei Cedri</a> - Tel. +39 045.7590988 - Colà di Lazise a 6,9 km</li>
-                            <li style="margin-bottom: 10px"><a href="http://www.gardacqua.it/index.php">Gardacqua</a> - Tel. +39 045.7255594 - Garda a 1,4 km</li>
-                            <li style="margin-bottom: 10px"><a href="http://www.golfclubcadegliulivi.it/">Cà degli Ulivi</a> - Tel. +39 045.6279030 - Marciaga a 2 km</li>
-                            <li style="margin-bottom: 10px"><a href="http://www.parcosigurta.it/">Parco Sigurtà</a> - Tel. +39 045.6370959 - Valeggio sul Mincio a 26 km</li>
+                            <li><a href="http://www.villadeicedri.it/">Villa dei Cedri</a> - Tel. +39 045.7590988 - Colà di Lazise a 6,9 km</li>
+                            <li><a href="http://www.gardacqua.it/index.php">Gardacqua</a> - Tel. +39 045.7255594 - Garda a 1,4 km</li>
+                            <li><a href="http://www.golfclubcadegliulivi.it/">Cà degli Ulivi</a> - Tel. +39 045.6279030 - Marciaga a 2 km</li>
+                            <li><a href="http://www.parcosigurta.it/">Parco Sigurtà</a> - Tel. +39 045.6370959 - Valeggio sul Mincio a 26 km</li>
                         </ul>
                         </p>
-                        <a href="suite-room.html" class="res-btn">See all places <i class="fa fa-arrow-right"></i></a>
+
                     </div>
                 </div>
             </div>
@@ -154,14 +156,14 @@
                         <h2>Eventi e Festività</h2>
                         <p>
                         <ul>
-                            <li style="margin-bottom: 10px">Dicembre - Garda: Natale tra gli ulivi: mercatino natalizio</li>
-                            <li style="margin-bottom: 10px">Giugno - Palio del Chiaretto Bardolino</li>
-                            <li style="margin-bottom: 10px">Agosto - Garda: Palio delle contrade con gara di bisse</li>
-                            <li style="margin-bottom: 10px">Tutta l'estate - <a href="http://www.arena.it/">Arena di Verona</a> - stagione lirica</li>
-                            <li style="margin-bottom: 10px">Ottobre - Festa dell'uva Bardolino</li>
+                            <li>Dicembre - Garda: Natale tra gli ulivi: mercatino natalizio</li>
+                            <li>Giugno - Palio del Chiaretto Bardolino</li>
+                            <li>Agosto - Garda: Palio delle contrade con gara di bisse</li>
+                            <li>Tutta l'estate - <a href="http://www.arena.it/">Arena di Verona</a> - stagione lirica</li>
+                            <li>Ottobre - Festa dell'uva Bardolino</li>
                         </ul>
                         </p>
-                        <a href="suite-room.html" class="res-btn">See all places <i class="fa fa-arrow-right"></i></a>
+
                     </div>
                 </div>
             </div>

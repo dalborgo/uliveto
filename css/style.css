@@ -10056,4 +10056,6 @@ body {
 .fiere .activities-outer ul a:hover, .fiere .activities-outer .linkp:hover{
   color: #85ab00;
 }
-/*endregion*/
+.activities-content ul li {
+    margin-bottom: 10px;
+}

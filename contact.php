@@ -146,15 +146,15 @@
                 <div class="single-room-wrapper">
                     <div class="room-dec-wrapper">
                         <h2>Dove Siamo</h2>
-                        <p>GARDA: il territorio di Garda, piccolo borgo posto sulla sponda veronese del Lago di Garda, è
-                            ricco di Ville, percorsi panoramici e lunghe e moderne passeggiate sul suo splendido
+                        <p><strong>GARDA</strong>: il territorio di Garda, piccolo borgo posto sulla <strong>sponda veronese del Lago di Garda</strong>, è
+                            ricco di <strong>Ville, percorsi panoramici</strong> e lunghe e moderne <strong>passeggiate</strong> sul suo splendido
                             lungolago.
                         </p>
-                        <p>Di interesse storico/culturale sono il Chiostro della Pieve del X secolo, l’Eremo dei
-                            Camaldolesi del 1400 ed alcune Ville come il Palazzo dei Capitani del XIV secolo, Villa
-                            degli Alberini del XVI secolo e la famosa Villa Canossa del 1700. </p>
-                        <p>Interessante è anche Punta San Vigilio, una penisola che racchiude nel suo grembo una Villa,
-                            un’antica Locanda, la piccola chiesa, un porticciolo e la conosciuta Baia delle Sirene.</p>
+                        <p>Di <strong>interesse storico/culturale</strong> sono il <strong>Chiostro della Pieve</strong> del X secolo, <strong>l’Eremo dei
+                            Camaldolesi</strong> del 1400 ed alcune Ville come il <strong>Palazzo dei Capitani</strong> del XIV secolo, <strong>Villa
+                            degli Alberini</strong> del XVI secolo e la famosa <strong>Villa Canossa</strong> del 1700. </p>
+                        <p>Interessante è anche <strong>Punta San Vigilio</strong>, una penisola che racchiude nel suo grembo una Villa,
+                            un’antica Locanda, la piccola chiesa, un porticciolo e la conosciuta <strong>Baia delle Sirene</strong>.</p>
                     </div>
                 </div>
             </div>
