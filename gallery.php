@@ -41,7 +41,7 @@
     <div class="container">
         <ol class="breadcrumb">
             <li><a href="index.php">Home</a></li>
-            <li class="active">Galleria</li>
+            <li class="active">Galleria Fotografica</li>
         </ol>
     </div>
 </section>
@@ -61,7 +61,7 @@
                 <span>Piscina</span>
             </li>
             <li data-filter=".camere" class="gallery-sorter">
-                <span>Camere</span>
+                <span>Appartamenti</span>
             </li>
             <li data-filter=".interni" class="gallery-sorter">
                 <span>Interni</span>
@@ -75,7 +75,7 @@
             <div class="image-gallery" data-filter-class="gallery-sorter">
                 <?= getImg('IMG_2066', 'camere interni') ?>
                 <?= getImg('53', 'piscina esterni', 'h', 8) ?>
-                <?= getImg('IMG_1904b', 'giardino esterni', 'v', 4,true) ?>
+                <?= getImg('IMG_1904b', 'giardino esterni', 'v', 4, true) ?>
                 <?= getImg('IMG_1941', 'camere interni') ?>
                 <?= getImg('01', 'piscina giardino esterni') ?>
                 <?= getImg('11', 'piscina esterni') ?>
@@ -87,7 +87,7 @@
 
                 <?= getImg('02', 'piscina giardino esterni') ?>
                 <?= getImg('49', 'piscina esterni', 'h', 8) ?>
-                <?= getImg('38', 'piscina esterni', 'v', 4,true) ?>
+                <?= getImg('38', 'piscina esterni', 'v', 4, true) ?>
                 <?= getImg('IMG_2026', 'camere interni') ?>
                 <?= getImg('IMG_2079b', 'camere interni') ?>
                 <?= getImg('32', 'piscina giardino esterni') ?>
@@ -99,7 +99,7 @@
 
                 <?= getImg('IMG_1951', 'camere interni') ?>
                 <?= getImg('16', 'piscina esterni', 'h', 8) ?>
-                <?= getImg('IMG_1873', 'giardino esterni', 'v', 4,true) ?>
+                <?= getImg('IMG_1873', 'giardino esterni', 'v', 4, true) ?>
                 <?= getImg('IMG_1962', 'camere interni') ?>
                 <?= getImg('IMG_1955', 'camere interni esterni') ?>
                 <?= getImg('IMG_2007', 'camere interni') ?>
@@ -109,7 +109,6 @@
                 <?= getImg('18', 'giardino esterni') ?>
                 <?= getImg('24', 'giardino esterni') ?>
                 <?= getImg('27', 'giardino esterni') ?>
-
             </div>
             <!-- /.image-gallery -->
         </div>

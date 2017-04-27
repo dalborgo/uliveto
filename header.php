@@ -7,7 +7,7 @@
                         <a href="#"><i class="fa fa-phone"></i> (+39) 3468689410</a>
                     </li><!-- comment for inline hack
 --><li>
-                        <a href="#"><i class="fa fa-map-marker"></i> Via Monte Baldo, 35 - 37016 GARDA (Vr) Italy</a>
+                        <a href="#"><i class="fa fa-map-marker"></i> Via Monte Baldo, 35 - 37016 Garda (Vr) - Italia</a>
                     </li><!-- comment for inline hack
 --><li>
                         <a href="#"><i class="fa fa-envelope"></i> info@residenceuliveto.it</a>
@@ -33,19 +33,20 @@
 
             <div class="collapse navbar-collapse" id="main-navigation">
                 <ul class="nav navbar-nav ">
-                    <li><a href="#">Home</a></li>
-                    <li><a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Appartamenti<span class="glyphicon glyphicon-chevron-down"></span></a>
+                    <li><a href="index.php">Home</a></li>
+                    <li><a href="appartamenti.php">Appartamenti</a></li>
+                   <!-- <li><a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Appartamenti<span class="glyphicon glyphicon-chevron-down"></span></a>
 						<ul class="dropdown-submenu dropdown-menu">
 							<li><a href="#">Monolocale</a></li>
 							<li><a href="#">Bilocale</a></li>
                             <li><a href="#">Trilocale</a></li>
                             <li><a href="#">Quadrilocale</a></li>
 						</ul>
-                    </li>
-                    <li><a href="#">Luoghi ed eventi</a></li>
+                    </li>-->
+                    <li><a href="#">Listino</a></li>
+                    <li><a href="activities.php">Luoghi ed eventi</a></li>
                     <li><a href="gallery.php">Galleria</a></li>
-                    <li><a href="#">Dove siamo</a></li>
-                    <li><a href="#">Contatti</a></li>
+                    <li><a href="contact.php">Contatti</a></li>
                 </ul>
             </div>
         </div>

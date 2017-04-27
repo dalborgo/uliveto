@@ -4278,14 +4278,14 @@ blockquote footer a {
   position: relative;
 }
 
-.contact-info h2:after {
+.contact-info h2::after {
   content: '';
   position: absolute;
   bottom: 7px;
   width: 60px;
   height: 2px;
   display: inline-block;
-  background: #a7cc38;
+  background: #146E4E;
   margin: 0 0 0 12px;
 }
 
@@ -4305,7 +4305,7 @@ blockquote footer a {
   -moz-border-radius: 50%;
   border-radius: 50%;
   overflow: hidden;
-  background: #a2d002;
+  background: #146E4E none repeat scroll 0 0;
 }
 
 .contact-info .media-contact-icon i {
@@ -4538,14 +4538,14 @@ blockquote footer a {
   position: relative;
 }
 
-.single-room-wrapper .room-dec-wrapper h2:after {
+.single-room-wrapper .room-dec-wrapper h2::after {
   content: '';
   position: absolute;
   bottom: 7px;
   width: 60px;
   height: 2px;
   display: inline-block;
-  background: #a7cc38;
+  background: #146E4E;
   margin: 0 0 0 12px;
 }
 
@@ -4575,7 +4575,7 @@ blockquote footer a {
   width: 60px;
   height: 2px;
   display: inline-block;
-  background: #a7cc38;
+  background: #146E4E;
   margin: 0 0 0 12px;
 }
 
@@ -5184,14 +5184,14 @@ blockquote footer a {
   padding: 0;
 }
 
-.sec-header-two h2:after {
+.sec-header-two h2::after {
   content: '';
   position: absolute;
   bottom: 7px;
   width: 60px;
   height: 2px;
   display: inline-block;
-  background: #a7cc38;
+  background: #146E4E;
   margin: 0 0 0 12px;
 }
 
@@ -10045,3 +10045,15 @@ body {
   background: #146E4E none repeat scroll 0 0;
 
 }*/
+
+
+
+/*region CUSTOM*/
+.fiere .activities-outer ul a, .fiere .activities-outer .linkp{
+  color: #146E4E;
+}
+
+.fiere .activities-outer ul a:hover, .fiere .activities-outer .linkp:hover{
+  color: #85ab00;
+}
+/*endregion*/

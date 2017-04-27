@@ -250,7 +250,8 @@
                 <div class="room-suite room-suite-htwo">
                     <div class="item">
                         <a rel="help" data-imagelightbox="g" href="images/slider/piccole/42.jpg">
-                            <div class="ro-img"><img src="images/slider/piccole/42_tn.jpg" class="img-responsive" alt=""></div>
+                            <div class="ro-img"><img src="images/slider/piccole/42_tn.jpg" class="img-responsive"
+                                                     alt=""></div>
                         </a>
                         <div class="ro-txt">
                             <h2>Economy Room</h2>
@@ -267,7 +268,8 @@
                 <div class="room-suite room-suite-htwo">
                     <div class="item">
                         <a rel="help" data-imagelightbox="g" href="images/slider/piccole/24.jpg">
-                            <div class="ro-img"><img src="images/slider/piccole/24_tn.jpg" class="img-responsive" alt=""></div>
+                            <div class="ro-img"><img src="images/slider/piccole/24_tn.jpg" class="img-responsive"
+                                                     alt=""></div>
                         </a>
                         <div class="ro-txt">
                             <h2>Super Room</h2>
@@ -284,7 +286,8 @@
                 <div class="room-suite room-suite-htwo">
                     <div class="item">
                         <a rel="help" data-imagelightbox="g" href="images/slider/piccole/IMG_2087.jpg">
-                            <div class="ro-img"><img src="images/slider/piccole/IMG_2087_tn.jpg" class="img-responsive" alt=""></div>
+                            <div class="ro-img"><img src="images/slider/piccole/IMG_2087_tn.jpg" class="img-responsive"
+                                                     alt=""></div>
                         </a>
                         <div class="ro-txt">
                             <h2>Family Room</h2>
@@ -440,60 +443,187 @@
 <section class="our-galler-htwo clearfix common-pad">
     <div class="container clearfix">
         <div class="sec-header sec-w-header">
-            <h2>Our Gallery</h2>
+            <h2>La Nostra Galleria</h2>
             <h3>Pick a room that best suits your taste and budget</h3>
         </div>
     </div>
     <div class="fullwidth-silder">
         <div class="fullwidth-slider">
             <div class="item">
-                <img src="images/gallery-two/1.jpg" alt="">
+                <img src="images/slider/piccole2/41_tn.jpg" alt="">
                 <div class="this-overlay">
                     <div class="this-texts">
-                        <a href="images/gallery-two/1.jpg" class="fancybox" rel="help"><i class="icon icon-Search"></i></a>
-                        <h4 class="this-title">our staff</h4>
+                        <a rel="help" data-imagelightbox="g" href="images/slider/piccole2/41.jpg"><i
+                                    class="icon icon-Search"></i></a>
+                        <!--                        <a href="images/slider/piccole2/41.jpg" class="fancybox" rel="help">-->
+                        <h4 class="this-title">Piscina</h4>
                     </div>
                 </div>
             </div>
             <div class="item">
-                <img src="images/gallery-two/2.jpg" alt="">
+                <img src="images/slider/piccole2/24_tn.jpg" alt="">
                 <div class="this-overlay">
                     <div class="this-texts">
-                        <a href="images/gallery-two/2.jpg" class="fancybox" rel="help"><i class="icon icon-Search"></i></a>
-                        <h4 class="this-title">exterior view</h4>
+                        <a rel="help" data-imagelightbox="g" href="images/slider/piccole2/24.jpg"><i
+                                    class="icon icon-Search"></i></a>
+                        <h4 class="this-title">Giardino</h4>
                     </div>
                 </div>
             </div>
             <div class="item">
-                <img src="images/gallery-two/3.jpg" alt="">
+                <img src="images/slider/piccole2/42_tn.jpg" alt="">
                 <div class="this-overlay">
                     <div class="this-texts">
-                        <a href="images/gallery-two/3.jpg" class="fancybox" rel="help"><i class="icon icon-Search"></i></a>
-                        <h4 class="this-title">bedroom</h4>
+                        <a rel="help" data-imagelightbox="g" href="images/slider/piccole2/42_tn.jpg"><i
+                                    class="icon icon-Search"></i></a>
+                        <h4 class="this-title">Piscina</h4>
                     </div>
                 </div>
             </div>
             <div class="item">
-                <img src="images/gallery-two/4.jpg" alt="">
+                <img src="images/slider/piccole2/IMG_1951_tn.jpg" alt="">
                 <div class="this-overlay">
                     <div class="this-texts">
-                        <a href="images/gallery-two/4.jpg" class="fancybox" rel="help"><i class="icon icon-Search"></i></a>
-                        <h4 class="this-title">swiming pool</h4>
+                        <a rel="help" data-imagelightbox="g" href="images/slider/piccole2/IMG_1951.jpg"><i
+                                    class="icon icon-Search"></i></a>
+                        <h4 class="this-title">Appartamento</h4>
                     </div>
                 </div>
             </div>
             <div class="item">
-                <img src="images/gallery-two/5.jpg" alt="">
+                <img src="images/slider/piccole2/IMG_1855_tn.jpg" alt="">
                 <div class="this-overlay">
                     <div class="this-texts">
-                        <a href="images/gallery-two/5.jpg" class="fancybox" rel="help"><i class="icon icon-Search"></i></a>
-                        <h4 class="this-title">our restaurant</h4>
+                        <a rel="help" data-imagelightbox="g" href="images/slider/piccole2/IMG_1855.jpg"><i
+                                    class="icon icon-Search"></i></a>
+                        <h4 class="this-title">Reception</h4>
                     </div>
                 </div>
             </div>
         </div>
     </div>
 </section>
+<!-- Testimonials Resort  -->
+<section class="container clearfix common-pad testimonials-sec">
+    <div class="sec-header">
+        <h2>Testimonials</h2>
+        <h3>Pick a room that best suits your taste and budget</h3>
+    </div>
+    <div class="testimonials-wrapper">
+        <div class="testimonial-sliders">
+            <div class="item">
+                <div class="test-cont"><p>
+                    <h4>Super Preis-Leistung Verhältnis</h4>
+                    <ul>
+                        <li>+ Gutes kleines Hotel</li>
+                        <li>+ Super Pool</li>
+                        <li>+ 5 min Fussweg zur Ortsmitte von Garda</li>
+                        <li>+ Super Aussicht auf den Gardasee</li>
+                    </ul>
+                    <br>
+                    <a href="https://www.holidaycheck.de/hr/bewertungen-residence-uliveto/68e5b62e-8e4c-3777-a5c5-1d97f726706d">www.holidaycheck.de</a>
+                    </p></div>
+                <div class="test-bot">
+                    <div class="tst-img"><img src="images/testimonials/avatar.png" alt="" class="img-responsive"></div>
+                    <div class="client_name">
+                        <h5><a href="testimonials.html">Peter (46-50) - <span>Verreist als Paar im Oktober 2015 für 2 Wochen</span></a>
+                        </h5>
+                        <ul>
+                            <li><a href="#"><i class="fa fa-star"></i></a></li>
+                            <li><a href="#"><i class="fa fa-star"></i></a></li>
+                            <li><a href="#"><i class="fa fa-star"></i></a></li>
+                            <li><a href="#"><i class="fa fa-star"></i></a></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            <div class="item">
+                <div class="test-cont"><p><h4>Super Lage und gutes Preis-Leistungsverhältnis</h4>
+                    <ul>
+                        <li>+ Wunderschöner Urlaub</li>
+                        <li>+ super Preis/Leistungverhältnis</li>
+                        <li>+ schöne Poolanlage</li>
+                        <li>+ freundliche Vermieterin</li>
+                        <li>- Küchenausstattung</li>
+                    </ul>
+                    <br>
+                    <a href="https://www.holidaycheck.de/hr/bewertungen-residence-uliveto/68e5b62e-8e4c-3777-a5c5-1d97f726706d">www.holidaycheck.de</a></p>
+                </div>
+                <div class="test-bot">
+                    <div class="tst-img"><img src="images/testimonials/avatar.png" alt="" class="img-responsive"></div>
+                    <div class="client_name">
+                        <h5><a href="testimonials.html">Kerstin (46-50) - <span>Verreist als Paar im Juni 2016 für 2 Wochen</span></a>
+                        </h5>
+                        <ul>
+                            <li><a href="#"><i class="fa fa-star"></i></a></li>
+                            <li><a href="#"><i class="fa fa-star"></i></a></li>
+                            <li><a href="#"><i class="fa fa-star"></i></a></li>
+                            <li><a href="#"><i class="fa fa-star"></i></a></li>
+                            <li><a href="#"><i class="fa fa-star"></i></a></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            <div class="item">
+                <div class="test-cont"><p>Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit,
+                        sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro
+                        quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur.</p></div>
+                <div class="test-bot">
+                    <div class="tst-img"><img src="images/testimonials/3.png" alt="" class="img-responsive"></div>
+                    <div class="client_name">
+                        <h5><a href="testimonials.html">Mark John - <span>Nescom Technology- Director</span></a></h5>
+                        <ul>
+                            <li><a href="#"><i class="fa fa-star"></i></a></li>
+                            <li><a href="#"><i class="fa fa-star"></i></a></li>
+                            <li><a href="#"><i class="fa fa-star"></i></a></li>
+                            <li><a href="#"><i class="fa fa-star"></i></a></li>
+                            <li><a href="#"><i class="fa fa-star"></i></a></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            <div class="item">
+                <div class="test-cont"><p>Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit,
+                        sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro
+                        quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur.</p></div>
+                <div class="test-bot">
+                    <div class="tst-img"><img src="images/testimonials/4.png" alt="" class="img-responsive"></div>
+                    <div class="client_name">
+                        <h5><a href="testimonials.html">Mark John - <span>Nescom Technology- Director</span></a></h5>
+                        <ul>
+                            <li><a href="#"><i class="fa fa-star"></i></a></li>
+                            <li><a href="#"><i class="fa fa-star"></i></a></li>
+                            <li><a href="#"><i class="fa fa-star"></i></a></li>
+                            <li><a href="#"><i class="fa fa-star"></i></a></li>
+                            <li><a href="#"><i class="fa fa-star"></i></a></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            <div class="item">
+                <div class="test-cont"><p>Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit,
+                        sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro
+                        quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur.</p></div>
+                <div class="test-bot">
+                    <div class="tst-img"><img src="images/testimonials/5.png" alt="" class="img-responsive"></div>
+                    <div class="client_name">
+                        <h5><a href="testimonials.html">Mark John - <span>Nescom Technology- Director</span></a></h5>
+                        <ul>
+                            <li><a href="#"><i class="fa fa-star"></i></a></li>
+                            <li><a href="#"><i class="fa fa-star"></i></a></li>
+                            <li><a href="#"><i class="fa fa-star"></i></a></li>
+                            <li><a href="#"><i class="fa fa-star"></i></a></li>
+                            <li><a href="#"><i class="fa fa-star"></i></a></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- Testimonials  Resort -->
+
+
 <!-- Testimonials & Our Events style-->
 <div class="container clearfix common-pad">
     <div class="row">
@@ -503,17 +633,41 @@
             </div>
             <div class="testimonials-wrapper">
                 <div class="testimonial-sliders-two">
+
+
                     <div class="item">
-                        <div class="test-cont"><p>Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut
-                                fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt.
-                                Neque
-                                porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur.</p></div>
+                        <div class="test-cont"><p>
+                            <h4>Super Preis-Leistung Verhältnis</h4>
+                            <ul>
+                                <li>+ Gutes kleines Hotel</li>
+                                <li>+ Super Pool</li>
+                                <li>+ 5 min Fussweg zur Ortsmitte von Garda</li>
+                                <li>+ Super Aussicht auf den Gardasee</li>
+                            </ul>
+                            <br>
+                            <a href="https://www.holidaycheck.de/hr/bewertungen-residence-uliveto/68e5b62e-8e4c-3777-a5c5-1d97f726706d">www.holidaycheck.de</a>
+                            </p></div>
                         <div class="test-bot">
-                            <div class="tst-img"><img src="images/testimonials/1.png" alt="" class="img-responsive">
-                            </div>
+                            <div class="tst-img"><img src="images/testimonials/avatar.png" alt="" class="img-responsive"></div>
                             <div class="client_name">
-                                <h5><a href="testimonials.html">Mark John - <span>Nescom Technology- Director</span></a>
+                                <h5><a href="testimonials.html">Peter (46-50) - <span>Verreist als Paar im Oktober 2015 für 2 Wochen</span></a>
                                 </h5>
+                                <ul>
+                                    <li><a href="#"><i class="fa fa-star"></i></a></li>
+                                    <li><a href="#"><i class="fa fa-star"></i></a></li>
+                                    <li><a href="#"><i class="fa fa-star"></i></a></li>
+                                    <li><a href="#"><i class="fa fa-star"></i></a></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="item">
+                        <div class="test-cont"><p>Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur.</p></div>
+                        <div class="test-bot">
+                            <div class="tst-img"><img src="images/testimonials/2.png" alt="" class="img-responsive"></div>
+                            <div class="client_name">
+                                <h5><a href="testimonials.html">Mark John - <span>Nescom Technology- Director</span></a></h5>
                                 <ul>
                                     <li><a href="#"><i class="fa fa-star"></i></a></li>
                                     <li><a href="#"><i class="fa fa-star"></i></a></li>
@@ -525,16 +679,29 @@
                         </div>
                     </div>
                     <div class="item">
-                        <div class="test-cont"><p>Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut
-                                fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt.
-                                Neque
-                                porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur.</p></div>
+                        <div class="test-cont"><p>Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur.</p></div>
                         <div class="test-bot">
-                            <div class="tst-img"><img src="images/testimonials/2.png" alt="" class="img-responsive">
-                            </div>
+                            <div class="tst-img"><img src="images/testimonials/3.png" alt="" class="img-responsive"></div>
                             <div class="client_name">
-                                <h5><a href="testimonials.html">Mark John - <span>Nescom Technology- Director</span></a>
-                                </h5>
+                                <h5><a href="testimonials.html">Mark John - <span>Nescom Technology- Director</span></a></h5>
+                                <ul>
+                                    <li><a href="#"><i class="fa fa-star"></i></a></li>
+                                    <li><a href="#"><i class="fa fa-star"></i></a></li>
+                                    <li><a href="#"><i class="fa fa-star"></i></a></li>
+                                    <li><a href="#"><i class="fa fa-star"></i></a></li>
+                                    <li><a href="#"><i class="fa fa-star"></i></a></li>
+                                </ul>
+                            </div>
+
+                        </div>
+                    </div>
+
+                    <div class="item">
+                        <div class="test-cont"><p>Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur.</p></div>
+                        <div class="test-bot">
+                            <div class="tst-img"><img src="images/testimonials/4.png" alt="" class="img-responsive"></div>
+                            <div class="client_name">
+                                <h5><a href="testimonials.html">Mark John - <span>Nescom Technology- Director</span></a></h5>
                                 <ul>
                                     <li><a href="#"><i class="fa fa-star"></i></a></li>
                                     <li><a href="#"><i class="fa fa-star"></i></a></li>
@@ -546,58 +713,11 @@
                         </div>
                     </div>
                     <div class="item">
-                        <div class="test-cont"><p>Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut
-                                fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt.
-                                Neque
-                                porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur.</p></div>
+                        <div class="test-cont"><p>Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur.</p></div>
                         <div class="test-bot">
-                            <div class="tst-img"><img src="images/testimonials/3.png" alt="" class="img-responsive">
-                            </div>
+                            <div class="tst-img"><img src="images/testimonials/5.png" alt="" class="img-responsive"></div>
                             <div class="client_name">
-                                <h5><a href="testimonials.html">Mark John - <span>Nescom Technology- Director</span></a>
-                                </h5>
-                                <ul>
-                                    <li><a href="#"><i class="fa fa-star"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-star"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-star"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-star"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-star"></i></a></li>
-                                </ul>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="item">
-                        <div class="test-cont"><p>Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut
-                                fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt.
-                                Neque
-                                porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur.</p></div>
-                        <div class="test-bot">
-                            <div class="tst-img"><img src="images/testimonials/4.png" alt="" class="img-responsive">
-                            </div>
-                            <div class="client_name">
-                                <h5><a href="testimonials.html">Mark John - <span>Nescom Technology- Director</span></a>
-                                </h5>
-                                <ul>
-                                    <li><a href="#"><i class="fa fa-star"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-star"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-star"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-star"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-star"></i></a></li>
-                                </ul>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="item">
-                        <div class="test-cont"><p>Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut
-                                fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt.
-                                Neque
-                                porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur.</p></div>
-                        <div class="test-bot">
-                            <div class="tst-img"><img src="images/testimonials/5.png" alt="" class="img-responsive">
-                            </div>
-                            <div class="client_name">
-                                <h5><a href="testimonials.html">Mark John - <span>Nescom Technology- Director</span></a>
-                                </h5>
+                                <h5><a href="testimonials.html">Mark John - <span>Nescom Technology- Director</span></a></h5>
                                 <ul>
                                     <li><a href="#"><i class="fa fa-star"></i></a></li>
                                     <li><a href="#"><i class="fa fa-star"></i></a></li>
@@ -609,12 +729,19 @@
                         </div>
                     </div>
                 </div>
+
             </div>
+
+
         </div>
+
+
         <div class="col-lg-6 col-md-6 event-wrapper">
+
             <div class="sec-header-two">
                 <h2>Our Events</h2>
             </div>
+
             <div class="our-event-t-wrapper">
                 <div class="media">
                     <div class="media-left">
@@ -624,14 +751,14 @@
                                     <p>25<span>June</span></p>
                                 </div>
                             </div>
-                        </div>
-                    </div>
+                        </div></div>
                     <div class="media-body">
                         <h2>Host a Family Party</h2>
-                        <p>Nemo enim ipsam voluptatem quia voluptas sit aspern atur aut odit aut fugit, sed quia
-                            consequuntur magni dolores eos qui ratione voluptatem.</p>
+                        <p>Nemo enim ipsam voluptatem quia voluptas sit aspern atur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem.</p>
                     </div>
                 </div>
+
+
                 <div class="media">
                     <div class="media-left">
                         <div class="date-box">
@@ -640,14 +767,14 @@
                                     <p>08<span>June</span></p>
                                 </div>
                             </div>
-                        </div>
-                    </div>
+                        </div></div>
                     <div class="media-body">
                         <h2>Host a Family Party</h2>
-                        <p>Nemo enim ipsam voluptatem quia voluptas sit aspern atur aut odit aut fugit, sed quia
-                            consequuntur magni dolores eos qui ratione voluptatem.</p>
+                        <p>Nemo enim ipsam voluptatem quia voluptas sit aspern atur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem.</p>
                     </div>
                 </div>
+
+
                 <div class="media media-last">
                     <div class="media-left">
                         <div class="date-box">
@@ -656,18 +783,23 @@
                                     <p>08<span>June</span></p>
                                 </div>
                             </div>
-                        </div>
-                    </div>
+                        </div></div>
                     <div class="media-body">
                         <h2>Host a Family Party</h2>
-                        <p>Nemo enim ipsam voluptatem quia voluptas sit aspern atur aut odit aut fugit, sed quia
-                            consequuntur magni dolores eos qui ratione voluptatem.</p>
+                        <p>Nemo enim ipsam voluptatem quia voluptas sit aspern atur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem.</p>
                     </div>
                 </div>
+
+
             </div>
+
+
         </div>
     </div>
 </div>
+
+
+
 <!-- Get in Touch & Drop a Message style   -->
 <div class="resot-activities clearfix">
     <div class="container clearfix common-pad">
