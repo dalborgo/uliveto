@@ -8884,3 +8884,7 @@ h2.titolo {
 h2#tit1, h2#tit2, h2#tit3 {
     font-size: 80px;
 }
+
+#accordion ul li{
+    color: #898989;
+}

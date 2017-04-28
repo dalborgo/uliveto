@@ -305,7 +305,7 @@
 </div>
 <!-- fine galleria -->
 
-<!-- Our Gallery style-->
+<!-- Our Gallery style
 <section class="our-galler-htwo clearfix common-pad">
     <div class="container clearfix">
         <div class="sec-header sec-w-header">
@@ -373,7 +373,7 @@
     </div>
 </section>
 
-
+-->
 <!-- Testimonials & Our Events style-->
 <div class="container clearfix common-pad">
     <div class="row">
