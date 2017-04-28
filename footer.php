@@ -25,7 +25,7 @@
                         <li>
                             <i class="fa fa-phone"></i>
                             <div class="fleft contact_no">
-                                <a href="tel:+018655248503">Tel. +39 346 8689410</a>  /  <a href="tel:+12549547854">Fax +39 045 6270477</a>
+                                <a href="tel:+393468689410">Tel. +39 346 8689410</a>  /  <a href="tel:+390456270477">Fax +39 045 6270477</a>
                             </div>
                         </li>
                         <li>
@@ -52,7 +52,7 @@
                         <li>
                             <i class="fa fa-phone"></i>
                             <div class="fleft contact_no">
-                                <a href="tel:+018655248503">Tel. +39 346 8689410</a>  /  <a href="tel:+12549547854">Fax +39 045 6270477</a>
+                                <a href="tel:+393468689410">Tel. +39 346 8689410</a>  /  <a href="tel:+390456270477">Fax +39 045 6270477</a>
                             </div>
                         </li>
                         <li>

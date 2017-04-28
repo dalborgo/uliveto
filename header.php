@@ -43,7 +43,7 @@
                             <li><a href="#">Quadrilocale</a></li>
 						</ul>
                     </li>-->
-                    <li><a href="#">Listino</a></li>
+                    <li><a href="listino.php">Listino</a></li>
                     <li><a href="activities.php">Luoghi ed eventi</a></li>
                     <li><a href="gallery.php">Galleria</a></li>
                     <li><a href="contact.php">Contatti</a></li>

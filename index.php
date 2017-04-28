@@ -38,12 +38,8 @@
                 <div class="thm-container">
                     <div class="box valign-middle">
                         <div class="content text-center">
-                            <h2 data-animation="animated fadeInUp" class="this-title">Spend Your Dream Holidays</h2>
-                            <p data-animation="animated fadeInDown">Book a room at our resort now and get a discount of
-                                30%. Fruit basket, soft drinks and a huge cozy bed are waiting for you. We will do
-                                everything to make you feel at home.</p>
-                            <a data-animation="animated fadeInLeft" href="#" class="nhs-btn3">Book now</a>
-                            <a data-animation="animated fadeInRight" href="#" class="nhs-btn">know more</a>
+                            <h2 data-animation="animated fadeInUp" class="this-title titolo" id="tit1">Residence
+                                Uliveto</h2>
                         </div>
                     </div>
                 </div>
@@ -54,13 +50,9 @@
             <div class="carousel-caption nhs-caption nhs-caption7">
                 <div class="thm-container">
                     <div class="box valign-middle">
-                        <div class="content text-left pull-left">
-                            <h2 data-animation="animated fadeInUp" class="this-title">The Best Place to Relax</h2>
-                            <p data-animation="animated fadeInDown">Book a room at our resort now and get a discount of
-                                30%. Fruit basket, soft drinks and a huge cozy bed are waiting for you. We will do
-                                everything to make you feel at home.</p>
-                            <a data-animation="animated fadeInLeft" href="#" class="nhs-btn3">Book now</a>
-                            <a data-animation="animated fadeInRight" href="#" class="nhs-btn">know more</a>
+                        <div class="content text-left text-center"> <!-- pull-left -->
+                            <h2 data-animation="animated fadeInUp" class="this-title titolo" id="tit2">Residence
+                                Uliveto</h2>
                         </div>
                     </div>
                 </div>
@@ -72,9 +64,8 @@
                 <div class="thm-container">
                     <div class="box valign-middle">
                         <div class="content text-center">
-                            <h2 data-animation="animated fadeInUp" class="this-title">We offer you the best</h2>
-                            <h2 data-animation="animated fadeInUp" class="this-title">luxury hotel with an impressive
-                                history</h2>
+                            <h2 data-animation="animated fadeInUp" class="this-title titolo" id="tit3">Residence
+                                Uliveto</h2>
                         </div>
                     </div>
                 </div>
@@ -149,69 +140,64 @@
                 <p>Il Residence “Uliveto” può essere il punto di partenza ideale per escursioni ed itinerari sportivi e
                     culturali nei paesi del Lago di Garda e nell’entroterra veronese. Dispone di piscina con
                     idromassaggio, zona solarium e piscina baby.</p>
-                <a href="aboutus.html" class="res-btn">I nostri appartamenti<i class="fa fa-arrow-right"></i></a>
+                <a href="appartamenti.php" class="res-btn">I nostri appartamenti<i class="fa fa-arrow-right"></i></a>
             </div>
             <div class="col-lg-6 col-md-6 col-xs-12">
                 <div class="row nasir-welboxes">
                     <div class="single_wel_cont col-sm-6">
-                        <a class="wel-box" href="#">
-                            <div class="icon-box"><img src="images/welcome/icon-3.png" alt=""/></div>
-                            <h4>Lexuary Spa</h4>
+                        <span class="wel-box" href="#">
+                            <div class="icon-box"><img src="images/rooms/42.png" alt=""/></div>
+                            <h4>Piscina Idromassaggio</h4>
                             <div class="overlay transition3s">
                                 <div class="icon_position_table">
                                     <div class="icon_container border_round">
-                                        <h2>Lexuary Spa</h2>
-                                        <p>Neque porro quisquam est, qui dolorem ipsum quia orro quisquam
-                                            estdqAolor </p>
+                                        <!--<h2>Piscina Idromassaggio</h2>-->
+                                        <!--<p>Neque porro quisquam est, qui dolorem ipsum quia orro quisquam
+                                            estdqAolor </p>-->
+                                        <img src="images/rooms/16_p.jpg" alt="">
                                     </div>
                                 </div>
                             </div>
-                        </a>
+                        </span>
                     </div>
                     <div class="single_wel_cont col-sm-6">
-                        <a class="wel-box" href="#">
-                            <div class="icon-box"><img src="images/welcome/icon-1.png" alt=""/></div>
-                            <h4>Inhouse Restaurant</h4>
+                        <span class="wel-box" href="#">
+                            <div class="icon-box"><img src="images/rooms/sdraio.png" alt=""/></div>
+                            <h4>Zona Solarium</h4>
                             <div class="overlay transition3s">
                                 <div class="icon_position_table">
                                     <div class="icon_container border_round">
-                                        <h2>Inhouse Restaurant</h2>
-                                        <p>Neque porro quisquam est, qui dolorem ipsum quia orro quisquam
-                                            estdqAolor </p>
+                                        <img src="images/rooms/06_p.jpg" alt="">
                                     </div>
                                 </div>
                             </div>
-                        </a>
+                        </span>
                     </div>
                     <div class="single_wel_cont col-sm-6">
-                        <a class="wel-box" href="#">
-                            <div class="icon-box"><img src="images/welcome/icon-2.png" alt=""/></div>
-                            <h4>Fitness Gym</h4>
+                        <span class="wel-box" href="#">
+                            <div class="icon-box"><img src="images/rooms/130.png" alt=""/></div>
+                            <h4>Piscina Baby</h4>
                             <div class="overlay transition3s">
                                 <div class="icon_position_table">
                                     <div class="icon_container border_round">
-                                        <h2>Fitness Gym</h2>
-                                        <p>Neque porro quisquam est, qui dolorem ipsum quia orro quisquam
-                                            estdqAolor </p>
+                                        <img src="images/rooms/43_p.jpg" alt="">
                                     </div>
                                 </div>
                             </div>
-                        </a>
+                        </span>
                     </div>
                     <div class="single_wel_cont col-sm-6">
-                        <a class="wel-box" href="#">
-                            <div class="icon-box"><img src="images/welcome/icon-3.png" alt=""/></div>
-                            <h4>Delicious Food</h4>
+                        <span class="wel-box" href="#">
+                            <div class="icon-box"><img src="images/rooms/184.png" alt=""/></div>
+                            <h4>Zona Barbeque</h4>
                             <div class="overlay transition3s">
                                 <div class="icon_position_table">
                                     <div class="icon_container border_round">
-                                        <h2>Delicious Food</h2>
-                                        <p>Neque porro quisquam est, qui dolorem ipsum quia orro quisquam
-                                            estdqAolor </p>
+                                        <img src="images/rooms/IMG_1910_p.jpg" alt="">
                                     </div>
                                 </div>
                             </div>
-                        </a>
+                        </span>
                     </div>
                 </div>
             </div>
@@ -224,8 +210,8 @@
 <div class="row room-and-suits-style">
     <section class="container clearfix common-pad ">
         <div class="sec-header sec-header-pad">
-            <h2>Rooms And Suits</h2>
-            <h3>Pick a room that best suits your taste and budget</h3>
+            <h2>La Nostra Galleria</h2>
+            <h3>Le immagini del Residence</h3>
         </div>
         <div class="room-slider">
             <div class="roomsuite-slider-two">
@@ -235,16 +221,7 @@
                             <div class="ro-img"><img src="images/slider/piccole/45_tn.jpg" class="img-responsive"
                                                      alt=""></div>
                         </a>
-                        <div class="ro-txt">
-                            <h2>Deluxe Room</h2>
-                            <p>Lorem ipsum dolor sit amet, consect etur adipisicing elit, sed do eiusmod ipsum dolor sit
-                                amet</p>
-                            <div class="ro-text-two">
-                                <div class="left-p-two pull-left"><a href="single-room.html" class="res-btn">details</a>
-                                </div>
-                                <div class="right-p-two pull-right"><p>$135<span>Per Night</span></p></div>
-                            </div>
-                        </div>
+
                     </div>
                 </div>
                 <div class="room-suite room-suite-htwo">
@@ -254,14 +231,14 @@
                                                      alt=""></div>
                         </a>
                         <div class="ro-txt">
-                            <h2>Economy Room</h2>
-                            <p>Lorem ipsum dolor sit amet, consect etur adipisicing elit, sed do eiusmod ipsum dolor sit
-                                amet</p>
-                            <div class="ro-text-two">
-                                <div class="left-p-two pull-left"><a href="single-room.html" class="res-btn">details</a>
-                                </div>
-                                <div class="right-p-two pull-right"><p>$215<span>Per Night</span></p></div>
-                            </div>
+                            <!-- <h2>Economy Room</h2>
+                             <p>Lorem ipsum dolor sit amet, consect etur adipisicing elit, sed do eiusmod ipsum dolor sit
+                                 amet</p>
+                             <div class="ro-text-two">
+                                 <div class="left-p-two pull-left"><a href="single-room.html" class="res-btn">details</a>
+                                 </div>
+                                 <div class="right-p-two pull-right"><p>$215<span>Per Night</span></p></div>
+                             </div>-->
                         </div>
                     </div>
                 </div>
@@ -272,14 +249,14 @@
                                                      alt=""></div>
                         </a>
                         <div class="ro-txt">
-                            <h2>Super Room</h2>
+                            <!--<h2>Super Room</h2>
                             <p>Lorem ipsum dolor sit amet, consect etur adipisicing elit, sed do eiusmod ipsum dolor sit
                                 amet</p>
                             <div class="ro-text-two">
                                 <div class="left-p-two pull-left"><a href="single-room.html" class="res-btn">details</a>
                                 </div>
                                 <div class="right-p-two pull-right"><p>$315<span>Per Night</span></p></div>
-                            </div>
+                            </div>-->
                         </div>
                     </div>
                 </div>
@@ -290,161 +267,50 @@
                                                      alt=""></div>
                         </a>
                         <div class="ro-txt">
-                            <h2>Family Room</h2>
-                            <p>Lorem ipsum dolor sit amet, consect etur adipisicing elit, sed do eiusmod ipsum dolor sit
-                                amet</p>
-                            <div class="ro-text-two">
-                                <div class="left-p-two pull-left"><a href="single-room.html" class="res-btn">details</a>
-                                </div>
-                                <div class="right-p-two pull-right"><p>$199<span>Per Night</span></p></div>
-                            </div>
+                            <!-- <h2>Family Room</h2>
+                             <p>Lorem ipsum dolor sit amet, consect etur adipisicing elit, sed do eiusmod ipsum dolor sit
+                                 amet</p>
+                             <div class="ro-text-two">
+                                 <div class="left-p-two pull-left"><a href="single-room.html" class="res-btn">details</a>
+                                 </div>
+                                 <div class="right-p-two pull-right"><p>$199<span>Per Night</span></p></div>
+                             </div>-->
                         </div>
                     </div>
                 </div>
+                <div class="room-suite room-suite-htwo">
+                    <div class="item">
+                        <a rel="help" data-imagelightbox="g" href="images/slider/piccole/IMG_1855.jpg">
+                            <div class="ro-img"><img src="images/slider/piccole/IMG_1855_tn.jpg" class="img-responsive"
+                                                     alt=""></div>
+                        </a>
+                        <div class="ro-txt">
+                            <!-- <h2>Family Room</h2>
+                             <p>Lorem ipsum dolor sit amet, consect etur adipisicing elit, sed do eiusmod ipsum dolor sit
+                                 amet</p>
+                             <div class="ro-text-two">
+                                 <div class="left-p-two pull-left"><a href="single-room.html" class="res-btn">details</a>
+                                 </div>
+                                 <div class="right-p-two pull-right"><p>$199<span>Per Night</span></p></div>
+                             </div>-->
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="left-p-two pull-left"><a href="gallery.php" class="res-btn" style="margin-top:30px">Vedi altre
+                    immagini</a>
             </div>
         </div>
     </section>
 </div>
 <!-- fine galleria -->
-<!-- Rooms And Suits style-->
-<section class="container clearfix common-pad nasir-style">
-    <div class="sec-header sec-header-pad">
-        <h2>Rooms And Suits</h2>
-        <h3>Pick a room that best suits your taste and budget</h3>
-    </div>
-    <div class="room-slider">
-        <div class="roomsuite-slider-two">
-            <div class="room-suite room-suite-htwo">
-                <div class="item">
-                    <div class="ro-img"><img src="images/rooms/8.jpg" class="img-responsive" alt=""></div>
-                    <div class="ro-txt">
-                        <h2>Deluxe Room</h2>
-                        <p>Lorem ipsum dolor sit amet, consect etur adipisicing elit, sed do eiusmod ipsum dolor sit
-                            amet</p>
-                        <div class="ro-text-two">
-                            <div class="left-p-two pull-left"><a href="single-room.html" class="res-btn">details</a>
-                            </div>
-                            <div class="right-p-two pull-right"><p>$135<span>Per Night</span></p></div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="room-suite room-suite-htwo">
-                <div class="item">
-                    <div class="ro-img"><img src="images/rooms/9.jpg" class="img-responsive" alt=""></div>
-                    <div class="ro-txt">
-                        <h2>Economy Room</h2>
-                        <p>Lorem ipsum dolor sit amet, consect etur adipisicing elit, sed do eiusmod ipsum dolor sit
-                            amet</p>
-                        <div class="ro-text-two">
-                            <div class="left-p-two pull-left"><a href="single-room.html" class="res-btn">details</a>
-                            </div>
-                            <div class="right-p-two pull-right"><p>$215<span>Per Night</span></p></div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="room-suite room-suite-htwo">
-                <div class="item">
-                    <div class="ro-img"><img src="images/rooms/10.jpg" class="img-responsive" alt=""></div>
-                    <div class="ro-txt">
-                        <h2>Super Room</h2>
-                        <p>Lorem ipsum dolor sit amet, consect etur adipisicing elit, sed do eiusmod ipsum dolor sit
-                            amet</p>
-                        <div class="ro-text-two">
-                            <div class="left-p-two pull-left"><a href="single-room.html" class="res-btn">details</a>
-                            </div>
-                            <div class="right-p-two pull-right"><p>$315<span>Per Night</span></p></div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="room-suite room-suite-htwo">
-                <div class="item">
-                    <div class="ro-img"><img src="images/rooms/11.jpg" class="img-responsive" alt=""></div>
-                    <div class="ro-txt">
-                        <h2>Family Room</h2>
-                        <p>Lorem ipsum dolor sit amet, consect etur adipisicing elit, sed do eiusmod ipsum dolor sit
-                            amet</p>
-                        <div class="ro-text-two">
-                            <div class="left-p-two pull-left"><a href="single-room.html" class="res-btn">details</a>
-                            </div>
-                            <div class="right-p-two pull-right"><p>$199<span>Per Night</span></p></div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
-<!-- Our Offer style-->
-<section class="our-offer-htwo clearfix">
-    <div class="container clearfix common-pad">
-        <div class="row">
-            <div class="col-md-4 our-offer-left">
-                <div class="sec-header3">
-                    <h2>Our Offers</h2>
-                    <h3>Pick a room that best suits</h3>
-                </div>
-                <p>Tdolor sit amet, consectetur, adipis civelit sed quia non qui dolorem ipsum quia dolor sit amet,
-                    consectetur, adipis civelit. Red quia numquam.</p>
-                <p>Tdolor sit amet, consectetur, adipis civelit sed quia non qui dolorem ipsum quia dolor sit amet,
-                    consectetur, adipis civelit. Red quia numquam eius modi. Neque porro quisquam.</p>
-            </div>
-            <div class="col-md-8 offer-right">
-                <div class="offer-img-box1">
-                    <div class="spa-offer">
-                        <div class="img_holder">
-                            <img src="images/our-resort/1.jpg" class="img-responsive" alt="">
-                            <div class="overlay">
-                                <div class="room-ad-cont">
-                                    <h2>25% <span>off</span></h2>
-                                    <h3>Weeken Spa Offer</h3>
-                                    <p>Enjoy a luxurious SPA weekend dedicated to helping you unwind.</p>
-                                    <a href="booking.html">Read more</a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="offer-img-box2">
-                    <div class="box1">
-                        <div class="img_holder">
-                            <a href="booking.html">
-                                <img src="images/our-resort/2.jpg" class="img-responsive" alt="">
-                                <div class="overlay">
-                                    <div class="text1">* condition apply</div>
-                                    <div class="offertext1">
-                                        <p>15% <span class="off-txt">off</span> <span class="winter-txt">In Winter<br>Season</span>
-                                        </p>
-                                    </div>
-                                </div>
-                            </a>
-                        </div>
-                    </div>
-                    <div class="box2">
-                        <div class="img_holder">
-                            <a href="booking.html">
-                                <img src="images/our-resort/3.jpg" class="img-responsive" alt="">
-                                <div class="overlay">
-                                    <p>Honeymoon <span>Offer</span></p>
-                                    <h2>25% <span>off</span></h2>
-                                    <h6>* condition apply</h6>
-                                </div>
-                            </a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
+
 <!-- Our Gallery style-->
 <section class="our-galler-htwo clearfix common-pad">
     <div class="container clearfix">
         <div class="sec-header sec-w-header">
             <h2>La Nostra Galleria</h2>
-            <h3>Pick a room that best suits your taste and budget</h3>
+            <h3>Le immagini del Residence</h3>
         </div>
     </div>
     <div class="fullwidth-silder">
@@ -455,7 +321,7 @@
                     <div class="this-texts">
                         <a rel="help" data-imagelightbox="g" href="images/slider/piccole2/41.jpg"><i
                                     class="icon icon-Search"></i></a>
-                        <!--                        <a href="images/slider/piccole2/41.jpg" class="fancybox" rel="help">-->
+
                         <h4 class="this-title">Piscina</h4>
                     </div>
                 </div>
@@ -500,128 +366,12 @@
                     </div>
                 </div>
             </div>
+
+        </div>
+        <div class="text-center"><a href="gallery.php" class="res-btn" style="margin-top: 30px;">Vedi altre immagini</a>
         </div>
     </div>
 </section>
-<!-- Testimonials Resort  -->
-<section class="container clearfix common-pad testimonials-sec">
-    <div class="sec-header">
-        <h2>Testimonials</h2>
-        <h3>Pick a room that best suits your taste and budget</h3>
-    </div>
-    <div class="testimonials-wrapper">
-        <div class="testimonial-sliders">
-            <div class="item">
-                <div class="test-cont"><p>
-                    <h4>Super Preis-Leistung Verhältnis</h4>
-                    <ul>
-                        <li>+ Gutes kleines Hotel</li>
-                        <li>+ Super Pool</li>
-                        <li>+ 5 min Fussweg zur Ortsmitte von Garda</li>
-                        <li>+ Super Aussicht auf den Gardasee</li>
-                    </ul>
-                    <br>
-                    <a href="https://www.holidaycheck.de/hr/bewertungen-residence-uliveto/68e5b62e-8e4c-3777-a5c5-1d97f726706d">www.holidaycheck.de</a>
-                    </p></div>
-                <div class="test-bot">
-                    <div class="tst-img"><img src="images/testimonials/avatar.png" alt="" class="img-responsive"></div>
-                    <div class="client_name">
-                        <h5><a href="testimonials.html">Peter (46-50) - <span>Verreist als Paar im Oktober 2015 für 2 Wochen</span></a>
-                        </h5>
-                        <ul>
-                            <li><a href="#"><i class="fa fa-star"></i></a></li>
-                            <li><a href="#"><i class="fa fa-star"></i></a></li>
-                            <li><a href="#"><i class="fa fa-star"></i></a></li>
-                            <li><a href="#"><i class="fa fa-star"></i></a></li>
-                        </ul>
-                    </div>
-                </div>
-            </div>
-            <div class="item">
-                <div class="test-cont"><p><h4>Super Lage und gutes Preis-Leistungsverhältnis</h4>
-                    <ul>
-                        <li>+ Wunderschöner Urlaub</li>
-                        <li>+ super Preis/Leistungverhältnis</li>
-                        <li>+ schöne Poolanlage</li>
-                        <li>+ freundliche Vermieterin</li>
-                        <li>- Küchenausstattung</li>
-                    </ul>
-                    <br>
-                    <a href="https://www.holidaycheck.de/hr/bewertungen-residence-uliveto/68e5b62e-8e4c-3777-a5c5-1d97f726706d">www.holidaycheck.de</a></p>
-                </div>
-                <div class="test-bot">
-                    <div class="tst-img"><img src="images/testimonials/avatar.png" alt="" class="img-responsive"></div>
-                    <div class="client_name">
-                        <h5><a href="testimonials.html">Kerstin (46-50) - <span>Verreist als Paar im Juni 2016 für 2 Wochen</span></a>
-                        </h5>
-                        <ul>
-                            <li><a href="#"><i class="fa fa-star"></i></a></li>
-                            <li><a href="#"><i class="fa fa-star"></i></a></li>
-                            <li><a href="#"><i class="fa fa-star"></i></a></li>
-                            <li><a href="#"><i class="fa fa-star"></i></a></li>
-                            <li><a href="#"><i class="fa fa-star"></i></a></li>
-                        </ul>
-                    </div>
-                </div>
-            </div>
-            <div class="item">
-                <div class="test-cont"><p>Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit,
-                        sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro
-                        quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur.</p></div>
-                <div class="test-bot">
-                    <div class="tst-img"><img src="images/testimonials/3.png" alt="" class="img-responsive"></div>
-                    <div class="client_name">
-                        <h5><a href="testimonials.html">Mark John - <span>Nescom Technology- Director</span></a></h5>
-                        <ul>
-                            <li><a href="#"><i class="fa fa-star"></i></a></li>
-                            <li><a href="#"><i class="fa fa-star"></i></a></li>
-                            <li><a href="#"><i class="fa fa-star"></i></a></li>
-                            <li><a href="#"><i class="fa fa-star"></i></a></li>
-                            <li><a href="#"><i class="fa fa-star"></i></a></li>
-                        </ul>
-                    </div>
-                </div>
-            </div>
-            <div class="item">
-                <div class="test-cont"><p>Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit,
-                        sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro
-                        quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur.</p></div>
-                <div class="test-bot">
-                    <div class="tst-img"><img src="images/testimonials/4.png" alt="" class="img-responsive"></div>
-                    <div class="client_name">
-                        <h5><a href="testimonials.html">Mark John - <span>Nescom Technology- Director</span></a></h5>
-                        <ul>
-                            <li><a href="#"><i class="fa fa-star"></i></a></li>
-                            <li><a href="#"><i class="fa fa-star"></i></a></li>
-                            <li><a href="#"><i class="fa fa-star"></i></a></li>
-                            <li><a href="#"><i class="fa fa-star"></i></a></li>
-                            <li><a href="#"><i class="fa fa-star"></i></a></li>
-                        </ul>
-                    </div>
-                </div>
-            </div>
-            <div class="item">
-                <div class="test-cont"><p>Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit,
-                        sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro
-                        quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur.</p></div>
-                <div class="test-bot">
-                    <div class="tst-img"><img src="images/testimonials/5.png" alt="" class="img-responsive"></div>
-                    <div class="client_name">
-                        <h5><a href="testimonials.html">Mark John - <span>Nescom Technology- Director</span></a></h5>
-                        <ul>
-                            <li><a href="#"><i class="fa fa-star"></i></a></li>
-                            <li><a href="#"><i class="fa fa-star"></i></a></li>
-                            <li><a href="#"><i class="fa fa-star"></i></a></li>
-                            <li><a href="#"><i class="fa fa-star"></i></a></li>
-                            <li><a href="#"><i class="fa fa-star"></i></a></li>
-                        </ul>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
-<!-- Testimonials  Resort -->
 
 
 <!-- Testimonials & Our Events style-->
@@ -648,7 +398,8 @@
                             <a href="https://www.holidaycheck.de/hr/bewertungen-residence-uliveto/68e5b62e-8e4c-3777-a5c5-1d97f726706d">www.holidaycheck.de</a>
                             </p></div>
                         <div class="test-bot">
-                            <div class="tst-img"><img src="images/testimonials/avatar.png" alt="" class="img-responsive"></div>
+                            <div class="tst-img"><img src="images/testimonials/avatar.png" alt=""
+                                                      class="img-responsive"></div>
                             <div class="client_name">
                                 <h5><a href="testimonials.html">Peter (46-50) - <span>Verreist als Paar im Oktober 2015 für 2 Wochen</span></a>
                                 </h5>
@@ -663,11 +414,23 @@
                     </div>
 
                     <div class="item">
-                        <div class="test-cont"><p>Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur.</p></div>
+                        <div class="test-cont"><p><h4>Super Lage und gutes Preis-Leistungsverhältnis</h4>
+                            <ul>
+                                <li>+ Wunderschöner Urlaub</li>
+                                <li>+ super Preis/Leistungverhältnis</li>
+                                <li>+ schöne Poolanlage</li>
+                                <li>+ freundliche Vermieterin</li>
+                                <li>- Küchenausstattung</li>
+                            </ul>
+                            <br>
+                            <a href="https://www.holidaycheck.de/hr/bewertungen-residence-uliveto/68e5b62e-8e4c-3777-a5c5-1d97f726706d">www.holidaycheck.de</a></p>
+                        </div>
                         <div class="test-bot">
-                            <div class="tst-img"><img src="images/testimonials/2.png" alt="" class="img-responsive"></div>
+                            <div class="tst-img"><img src="images/testimonials/avatar.png" alt=""
+                                                      class="img-responsive"></div>
                             <div class="client_name">
-                                <h5><a href="testimonials.html">Mark John - <span>Nescom Technology- Director</span></a></h5>
+                                <h5><a href="testimonials.html">Kerstin (46-50) - <span>Verreist als Paar im Juni 2016 für 2 Wochen</span></a>
+                                </h5>
                                 <ul>
                                     <li><a href="#"><i class="fa fa-star"></i></a></li>
                                     <li><a href="#"><i class="fa fa-star"></i></a></li>
@@ -679,11 +442,15 @@
                         </div>
                     </div>
                     <div class="item">
-                        <div class="test-cont"><p>Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur.</p></div>
+                        <div class="test-cont"><p>Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut
+                                fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt.
+                                Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur.</p></div>
                         <div class="test-bot">
-                            <div class="tst-img"><img src="images/testimonials/3.png" alt="" class="img-responsive"></div>
+                            <div class="tst-img"><img src="images/testimonials/3.png" alt="" class="img-responsive">
+                            </div>
                             <div class="client_name">
-                                <h5><a href="testimonials.html">Mark John - <span>Nescom Technology- Director</span></a></h5>
+                                <h5><a href="testimonials.html">Mark John - <span>Nescom Technology- Director</span></a>
+                                </h5>
                                 <ul>
                                     <li><a href="#"><i class="fa fa-star"></i></a></li>
                                     <li><a href="#"><i class="fa fa-star"></i></a></li>
@@ -697,11 +464,15 @@
                     </div>
 
                     <div class="item">
-                        <div class="test-cont"><p>Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur.</p></div>
+                        <div class="test-cont"><p>Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut
+                                fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt.
+                                Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur.</p></div>
                         <div class="test-bot">
-                            <div class="tst-img"><img src="images/testimonials/4.png" alt="" class="img-responsive"></div>
+                            <div class="tst-img"><img src="images/testimonials/4.png" alt="" class="img-responsive">
+                            </div>
                             <div class="client_name">
-                                <h5><a href="testimonials.html">Mark John - <span>Nescom Technology- Director</span></a></h5>
+                                <h5><a href="testimonials.html">Mark John - <span>Nescom Technology- Director</span></a>
+                                </h5>
                                 <ul>
                                     <li><a href="#"><i class="fa fa-star"></i></a></li>
                                     <li><a href="#"><i class="fa fa-star"></i></a></li>
@@ -713,11 +484,15 @@
                         </div>
                     </div>
                     <div class="item">
-                        <div class="test-cont"><p>Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur.</p></div>
+                        <div class="test-cont"><p>Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut
+                                fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt.
+                                Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur.</p></div>
                         <div class="test-bot">
-                            <div class="tst-img"><img src="images/testimonials/5.png" alt="" class="img-responsive"></div>
+                            <div class="tst-img"><img src="images/testimonials/5.png" alt="" class="img-responsive">
+                            </div>
                             <div class="client_name">
-                                <h5><a href="testimonials.html">Mark John - <span>Nescom Technology- Director</span></a></h5>
+                                <h5><a href="testimonials.html">Mark John - <span>Nescom Technology- Director</span></a>
+                                </h5>
                                 <ul>
                                     <li><a href="#"><i class="fa fa-star"></i></a></li>
                                     <li><a href="#"><i class="fa fa-star"></i></a></li>
@@ -738,125 +513,52 @@
 
         <div class="col-lg-6 col-md-6 event-wrapper">
 
-            <div class="sec-header-two">
-                <h2>Our Events</h2>
+            <div class="sec-header-touch">
+                <h2>Invia un messaggio</h2>
             </div>
-
-            <div class="our-event-t-wrapper">
-                <div class="media">
-                    <div class="media-left">
-                        <div class="date-box">
-                            <div class="date-inner">
-                                <div class="date-c-inner">
-                                    <p>25<span>June</span></p>
-                                </div>
-                            </div>
-                        </div></div>
-                    <div class="media-body">
-                        <h2>Host a Family Party</h2>
-                        <p>Nemo enim ipsam voluptatem quia voluptas sit aspern atur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem.</p>
+            <div class="drop-wrapper input_form">
+                <form action="php/sendemail.php" method="post" id="contactForm">
+                    <div class="row">
+                        <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+                            <input type="text" class="form-control" id="name" name="name" placeholder="Il tuo nome"
+                                   data-msg-required="Inserisci il nome.">
+                        </div>
+                        <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+                            <input type="email" class="form-control" id="email" name="email"
+                                   placeholder="La tua email" data-msg-email="Inserisci un indirizzo email valido."
+                                   data-msg-required="Inserisci l'email"></div>
                     </div>
-                </div>
-
-
-                <div class="media">
-                    <div class="media-left">
-                        <div class="date-box">
-                            <div class="date-inner">
-                                <div class="date-c-inner">
-                                    <p>08<span>June</span></p>
-                                </div>
-                            </div>
-                        </div></div>
-                    <div class="media-body">
-                        <h2>Host a Family Party</h2>
-                        <p>Nemo enim ipsam voluptatem quia voluptas sit aspern atur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem.</p>
+                    <div class="row">
+                        <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+                            <input type="text" class="form-control" id="subject" name="subject"
+                                   placeholder="Oggetto" data-msg-required="Inserisci l'oggetto">
+                        </div>
                     </div>
-                </div>
-
-
-                <div class="media media-last">
-                    <div class="media-left">
-                        <div class="date-box">
-                            <div class="date-inner">
-                                <div class="date-c-inner">
-                                    <p>08<span>June</span></p>
-                                </div>
-                            </div>
-                        </div></div>
-                    <div class="media-body">
-                        <h2>Host a Family Party</h2>
-                        <p>Nemo enim ipsam voluptatem quia voluptas sit aspern atur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem.</p>
+                    <div class="row">
+                        <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+                                <textarea class="form-control" rows="6" id="message" name="message"
+                                          placeholder="Messaggio"
+                                          data-msg-required="Inserisci il messaggio."></textarea>
+                        </div>
                     </div>
-                </div>
-
-
+                    <div class="row">
+                        <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+                            <button type="submit" class="res-btn">Invia <i class="fa fa-arrow-right"></i>
+                            </button>
+                        </div>
+                    </div>
+                </form>
+                <div id="success"><p>Your message sent successfully.</p></div>
+                <div id="error"><p>Something is wrong. Message cant be sent!</p></div>
             </div>
 
 
         </div>
     </div>
 </div>
-
 
 
 <!-- Get in Touch & Drop a Message style   -->
-<div class="resot-activities clearfix">
-    <div class="container clearfix common-pad">
-        <div class="row">
-            <div class="col-lg-6 col-md-7 get-touch-two">
-                <div class="get-touch-wrapper row m0">
-                    <div class="touch-img"><img src="images/footer/1.jpg" class="img-responsive" alt=""></div>
-                    <div class="touch-txt">
-                        <div class="sec-header-touch">
-                            <h2>Get in Touch</h2>
-                        </div>
-                        <h3>John Doe<span>(Senior Agent)</span></h3>
-                        <p>Phone : 604-786-4440</p>
-                        <p>Email : info@contactjohndoe.com</p>
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-6 col-md-5 home-two-msgwrapper">
-                <div class="sec-header-touch">
-                    <h2>Drop a Message</h2>
-                </div>
-                <div class="drop-wrapper input_form">
-                    <form action="sendemail.php" method="post" id="contactForm">
-                        <div class="row">
-                            <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
-                                <input type="text" class="form-control" id="name" name="name" placeholder="Your name">
-                            </div>
-                            <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
-                                <input type="email" class="form-control" id="email" name="email"
-                                       placeholder="Your Email"></div>
-                        </div>
-                        <div class="row">
-                            <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
-                                <input type="text" class="form-control" id="subject" name="subject"
-                                       placeholder="Subject">
-                            </div>
-                        </div>
-                        <div class="row">
-                            <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
-                                <textarea class="form-control" rows="6" id="message" name="message"
-                                          placeholder="Message"></textarea>
-                            </div>
-                        </div>
-                        <div class="row">
-                            <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
-                                <button type="submit" class="res-btn">Submit Now <i class="fa fa-arrow-right"></i>
-                                </button>
-                            </div>
-                        </div>
-                    </form>
-                    <div id="success"><p>Your message sent successfully.</p></div>
-                    <div id="error"><p>Something is wrong. Message cant be sent!</p></div>
-                </div>
-            </div>
-        </div>
-    </div>
-</div>
 <!-- Welcome banner  style-->
 <div class="nasir-subscribe-form-row row">
     <div class="container">

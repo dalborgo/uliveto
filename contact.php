@@ -33,7 +33,7 @@
 <?php include_once "header.php" ?>
 <!-- fine header -->
 <!-- Header  Inner style-->
-<section class="row final-inner-header">
+<section class="row final-inner-header contatti">
     <div class="container">
         <h2 class="this-title">Contatti</h2>
     </div>

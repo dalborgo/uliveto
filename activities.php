@@ -14,6 +14,7 @@
     <!--    owl-carousel-->
     <link rel="stylesheet" href="vendors/owlcarousel/owl.carousel.css">
     <link rel="stylesheet" href="vendors/jquery-ui-1.11.4/jquery-ui.min.css">
+    <link rel="stylesheet" href="vendors/imagelightbox/imagelightbox.min.css">
     <!-- Main Css  -->
     <link rel="stylesheet" href="css/style.css">
     <link rel="stylesheet" href="css/responsive.css">
@@ -28,7 +29,7 @@
 <body>
 <?php include_once "header.php" ?>
 <!-- Header  Inner style-->
-<section class="row final-inner-header">
+<section class="row final-inner-header eventi">
     <div class="container">
         <h2 class="this-title">Luoghi ed Eventi</h2>
     </div>
@@ -44,15 +45,12 @@
 <!-- Header  Slider style-->
 <!-- Resort Activities style-->
 <section class="container clearfix common-pad activities-main fiere">
-    <div class="sec-header3">
-        <h2>Fiere</h2>
-        <h3>Scopri le fiere presenti nel territorio.</h3>
-    </div>
+
     <div class="row">
         <div class="activities-wrapper">
             <!-- One  -->
             <div class="activities-outer">
-                <div class="col-md-8 col-md-push-4"><img src="images/activities/1.jpg" alt="" class="img-responsive">
+                <div class="col-md-8 col-md-push-4"><a rel="help" data-imagelightbox="g" href="images/eventi/vinitaly.jpg"><img src="images/eventi/vinitaly_p.jpg" alt="" class="img-responsive"></a>
                 </div>
                 <div class="col-md-4 col-md-pull-8">
                     <div class="activities-content">
@@ -68,7 +66,7 @@
             <!-- One  -->
             <!-- Two  -->
             <div class="activities-outer">
-                <div class="col-md-8"><img src="images/activities/2.jpg" alt="" class="img-responsive"></div>
+                <div class="col-md-8"><a rel="help" data-imagelightbox="g" href="images/eventi/fieracavalli.jpg"><img src="images/eventi/fieracavalli_p.jpg" alt="" class="img-responsive"></a></div>
                 <div class="col-md-4">
                     <div class="activities-content">
                         <h2>Fieracavalli </h2>
@@ -81,7 +79,7 @@
             <!-- Two  -->
             <!-- Three  -->
             <div class="activities-outer">
-                <div class="col-md-8 col-md-push-4"><img src="images/activities/3.jpg" alt="" class="img-responsive">
+                <div class="col-md-8 col-md-push-4"><a rel="help" data-imagelightbox="g" href="images/eventi/marmomacc.jpg"><img src="images/eventi/marmomacc_p.jpg" alt="" class="img-responsive"></a>
                 </div>
                 <div class="col-md-4 col-md-pull-8">
                     <div class="activities-content">
@@ -95,7 +93,7 @@
             <!-- Three  -->
             <!-- Four  -->
             <div class="activities-outer">
-                <div class="col-md-8"><img src="images/activities/4.jpg" alt="" class="img-responsive"></div>
+                <div class="col-md-8"><a rel="help" data-imagelightbox="g" href="images/eventi/abitare.jpg"><img src="images/eventi/abitare_p.jpg" alt="" class="img-responsive"></a></div>
                 <div class="col-md-4">
                     <div class="activities-content">
                         <h2>Abitare il Tempo</h2>
@@ -109,7 +107,7 @@
             <!-- Four  -->
             <!-- Five  -->
             <div class="activities-outer">
-                <div class="col-md-8 col-md-push-4"><img src="images/activities/5.jpg" alt="" class="img-responsive">
+                <div class="col-md-8 col-md-push-4"><a rel="help" data-imagelightbox="g" href="images/eventi/gardaland.jpg"><img src="images/eventi/gardaland_p.jpg" alt="" class="img-responsive"></a>
                 </div>
                 <div class="col-md-4 col-md-pull-8">
                     <div class="activities-content">
@@ -130,7 +128,7 @@
             <!-- Five  -->
             <!-- Six  -->
             <div class="activities-outer">
-                <div class="col-md-8"><img src="images/activities/6.jpg" alt="" class="img-responsive"></div>
+                <div class="col-md-8"><a rel="help" data-imagelightbox="g" href="images/eventi/sigurta.jpg"><img src="images/eventi/sigurta_p.jpg" alt="" class="img-responsive"></a></div>
                 <div class="col-md-4">
                     <div class="activities-content">
                         <h2>Terme e relax</h2>
@@ -148,8 +146,8 @@
             </div>
             <!-- Six  -->
             <!-- inizio seven -->
-            <div class="activities-outer">
-                <div class="col-md-8 col-md-push-4"><img src="images/activities/5.jpg" alt="" class="img-responsive">
+            <div class="activities-outer" style="margin-bottom: 0">
+                <div class="col-md-8 col-md-push-4"><a rel="help" data-imagelightbox="g" href="images/eventi/arena.jpg"><img src="images/eventi/arena_p.jpg" alt="" class="img-responsive"></a>
                 </div>
                 <div class="col-md-4 col-md-pull-8">
                     <div class="activities-content">
@@ -196,6 +194,7 @@
 <script src="js/jquery.easing.min.js"></script>
 <script src="js/jquery.mCustomScrollbar.concat.min.js"></script>
 <script src="js/zebra_datepicker.js"></script>
+<script src="vendors/imagelightbox/imagelightbox.min.js"></script>
 <!-- jQuery ui js -->
 <script src="js/jquery.mixitup.min.js"></script>
 <script src="js/jquery.fancybox.pack.js"></script>

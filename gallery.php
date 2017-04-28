@@ -32,7 +32,7 @@
 <!--endregion-->
 <?php include_once "slider.php" ?>
 <!-- Header  Inner style-->
-<section class="row final-inner-header">
+<section class="row final-inner-header galleria">
     <div class="container">
         <h2 class="this-title">Galleria Fotografica</h2>
     </div>
