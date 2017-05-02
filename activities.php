@@ -171,19 +171,7 @@
 </section>
 <!-- Resort Activities style-->
 <!-- Welcome banner  style-->
-<div class="nasir-subscribe-form-row row">
-    <div class="container">
-        <div class="row this-dashed">
-            <div class="this-texts">
-                <h2>Listini e Disponibilità</h2>
-                <h3>Scopri i prezzi per camera e verifica la disponibilità nel periodo desiderato.</h3>
-            </div>
-            <span class="input-group-addon">
-					<button type="submit" class="res-btn">contattaci<i class="fa fa-arrow-right"></i></button>
-				</span>
-        </div>
-    </div>
-</div>
+
 <!-- Welcome banner  style-->
 <?php include_once "footer.php" ?>
 <script src="js/jquery-2.2.4.min.js"></script>

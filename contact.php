@@ -295,22 +295,7 @@
     </div>
 </section>-->
 <!-- Welcome banner  style-->
-<div class="nasir-subscribe-form-row row">
-    <div class="container">
-        <div class="row this-dashed">
-            <div class="this-texts">
-                <h2>STAY TUNED WITH US</h2>
-                <h3>Get our updated offers, discounts, events and much more!</h3>
-            </div>
-            <form class="this-form input-group" action="#" method="post">
-                <input type="email" class="form-control" placeholder="Enter your email address">
-                <span class="input-group-addon">
-					<button type="submit" class="res-btn">subscribe<i class="fa fa-arrow-right"></i></button>
-				</span>
-            </form>
-        </div>
-    </div>
-</div>
+
 <!-- Welcome banner  style-->
 <!-- footer  style-->
 <?php include_once "footer.php" ?>

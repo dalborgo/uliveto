@@ -3939,7 +3939,7 @@ blockquote footer a {
     padding: 0;
 }
 .single-room-wrapper .ro-facilitie ul li {
-    margin: 0 1%;
+    margin: 0 1% 1em;
     padding: 0;
     width: 18%;
     float: left;
