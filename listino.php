@@ -57,60 +57,50 @@
                         <p>&euro; 43<span> / giorno</span></p>
                     </div>
                     <div class="book-form">
-                        <div class="col-md-12"><b>Arrive</b><span class="Zebra_DatePicker_Icon_Wrapper"
+                        <div class="col-md-12"><b>Arrivo</b><span class="Zebra_DatePicker_Icon_Wrapper"
                                                                   style="display: block; position: relative; float: none; top: auto; right: auto; bottom: auto; left: auto;"><input
-                                        class="form-control datepicker-example8" placeholder="Arival Date"
+                                        class="form-control datepicker-example8" placeholder="Data Arrivo"
                                         readonly="readonly"
                                         style="position: relative; top: auto; right: auto; bottom: auto; left: auto;"
                                         type="text"><button type="button"
                                                             class="Zebra_DatePicker_Icon Zebra_DatePicker_Icon_Inside"
-                                                            style="top: 11.5px; left: 268px;">Pick a date</button></span>
+                                                            style="top: 11.5px; left: 268px;">Scegli una data</button></span>
                         </div>
-                        <div class="col-md-12"><b>Departure</b><span class="Zebra_DatePicker_Icon_Wrapper"
+                        <div class="col-md-12"><b>Partenza</b><span class="Zebra_DatePicker_Icon_Wrapper"
                                                                      style="display: block; position: relative; float: none; top: auto; right: auto; bottom: auto; left: auto;"><input
-                                        class="form-control datepicker-example8" placeholder="Departure Date"
+                                        class="form-control datepicker-example8" placeholder="Data Partenza"
                                         readonly="readonly"
                                         style="position: relative; top: auto; right: auto; bottom: auto; left: auto;"
                                         type="text"><button type="button"
                                                             class="Zebra_DatePicker_Icon Zebra_DatePicker_Icon_Inside"
-                                                            style="top: 11.5px; left: 268px;">Pick a date</button></span>
+                                                            style="top: 11.5px; left: 268px;">Scegli una data</button></span>
                         </div>
                         <div class="col-md-12">
-                            <b>Adults</b>
+                            <b>Adulti</b>
                             <div class="select-box">
                                 <select class="select-menu" name="selectMenu" id="ui-id-1" style="display: none;">
-                                    <option value="default">Adults</option>
+                                    <option value="default">Adulti</option>
                                     <option value="1">1</option>
                                     <option value="2">2</option>
                                     <option value="3">3</option>
                                     <option value="4">4</option>
-                                </select><span class="ui-selectmenu-button ui-widget ui-state-default ui-corner-all"
-                                               tabindex="0" id="ui-id-1-button" role="combobox" aria-expanded="false"
-                                               aria-autocomplete="list" aria-owns="ui-id-1-menu" aria-haspopup="true"
-                                               style="width: 70px;"><span
-                                            class="ui-icon ui-icon-triangle-1-s"></span><span
-                                            class="ui-selectmenu-text">Adults</span></span>
+                                </select>
                             </div>
                         </div>
-                        <div class="col-md-12"><b>children</b>
+                        <div class="col-md-12"><b>Bambini</b>
                             <div class="select-box">
                                 <select class="select-menu" name="selectMenu" id="ui-id-2" style="display: none;">
-                                    <option value="default">Children</option>
+                                    <option value="default">Bambini</option>
                                     <option value="1">1</option>
                                     <option value="2">2</option>
                                     <option value="3">3</option>
                                     <option value="4">4</option>
-                                </select><span class="ui-selectmenu-button ui-widget ui-state-default ui-corner-all"
-                                               tabindex="0" id="ui-id-2-button" role="combobox" aria-expanded="false"
-                                               aria-autocomplete="list" aria-owns="ui-id-2-menu" aria-haspopup="true"
-                                               style="width: 85px;"><span
-                                            class="ui-icon ui-icon-triangle-1-s"></span><span
-                                            class="ui-selectmenu-text">Children</span></span>
+                                </select>
                             </div>
                         </div>
                         <div class="col-md-12">
                             <div class="chk-button">
-                                <button type="submit" class="res-btn">Check Availability</button>
+                                <button type="submit" class="res-btn">Vedi Disponibilità</button>
                             </div>
                         </div>
                     </div>

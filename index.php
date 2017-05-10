@@ -89,14 +89,14 @@
         <div class="search-sec search-sec-homet">
             <div class="overlay">
                 <div class="border">
-                    <div class="ser-in-box"><input class="form-control datepicker-example8" placeholder="Arival Date"
+                    <div class="ser-in-box"><input class="form-control datepicker-example8" placeholder="Data Arrivo"
                                                    type="text"></div>
                     <div class="ser-in-box"><input type="text" class="form-control datepicker-example8"
-                                                   placeholder="Departure Date"></div>
+                                                   placeholder="Data Partenza"></div>
                     <div class="ser-in-box">
                         <div class="select-box">
                             <select class="select-menu" name="selectMenu">
-                                <option value="default">Adults</option>
+                                <option value="default">Adulti</option>
                                 <option value="1">1</option>
                                 <option value="2">2</option>
                                 <option value="3">3</option>
@@ -107,7 +107,7 @@
                     <div class="ser-in-box">
                         <div class="select-box">
                             <select class="select-menu" name="selectMenu">
-                                <option value="default">Children</option>
+                                <option value="default">Bambini</option>
                                 <option value="1">1</option>
                                 <option value="2">2</option>
                                 <option value="3">3</option>
@@ -116,7 +116,7 @@
                         </div>
                     </div>
                     <div class="ser-in-box chk-button">
-                        <button type="submit" class="res-btn">Check Availability</button>
+                        <button type="submit" class="res-btn">Vedi Disponibilità</button>
                     </div>
                 </div>
             </div>
@@ -441,68 +441,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="item">
-                        <div class="test-cont"><p>Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut
-                                fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt.
-                                Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur.</p></div>
-                        <div class="test-bot">
-                            <div class="tst-img"><img src="images/testimonials/3.png" alt="" class="img-responsive">
-                            </div>
-                            <div class="client_name">
-                                <h5><a href="testimonials.html">Mark John - <span>Nescom Technology- Director</span></a>
-                                </h5>
-                                <ul>
-                                    <li><a href="#"><i class="fa fa-star"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-star"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-star"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-star"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-star"></i></a></li>
-                                </ul>
-                            </div>
 
-                        </div>
-                    </div>
-
-                    <div class="item">
-                        <div class="test-cont"><p>Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut
-                                fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt.
-                                Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur.</p></div>
-                        <div class="test-bot">
-                            <div class="tst-img"><img src="images/testimonials/4.png" alt="" class="img-responsive">
-                            </div>
-                            <div class="client_name">
-                                <h5><a href="testimonials.html">Mark John - <span>Nescom Technology- Director</span></a>
-                                </h5>
-                                <ul>
-                                    <li><a href="#"><i class="fa fa-star"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-star"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-star"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-star"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-star"></i></a></li>
-                                </ul>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="item">
-                        <div class="test-cont"><p>Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut
-                                fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt.
-                                Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur.</p></div>
-                        <div class="test-bot">
-                            <div class="tst-img"><img src="images/testimonials/5.png" alt="" class="img-responsive">
-                            </div>
-                            <div class="client_name">
-                                <h5><a href="testimonials.html">Mark John - <span>Nescom Technology- Director</span></a>
-                                </h5>
-                                <ul>
-                                    <li><a href="#"><i class="fa fa-star"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-star"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-star"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-star"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-star"></i></a></li>
-                                </ul>
-                            </div>
-                        </div>
-                    </div>
                 </div>
 
             </div>
