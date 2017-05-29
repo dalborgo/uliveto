@@ -4,14 +4,14 @@
     <section class="clearfix footer-wrapper">
         <section class="container clearfix footer-pad">
 
-            <div class="widget about-us-widget col-md-4 col-sm-6">
+            <div class="widget about-us-widget col-md-6 col-sm-6">
                 <a href="index.html"><img src="images/footer/logo.png" alt="" class="img-responsive"></a>
 
                 <p>Posto all’interno di un grande parco di Ulivi Secolari (1500 mq), a pochi passi da centro storico di Garda e a 300 metri dalle spiagge del Lago.</p>
 
             </div>
 
-            <div class="widget get-in-touch col-md-4 col-sm-6">
+            <div class="widget get-in-touch col-md-6 col-sm-6">
                 <h4 class="widget_title">Dove siamo</h4>
                 <div class="widget-contact-list">
                     <ul>
@@ -38,33 +38,33 @@
                     </ul>
                 </div>
             </div>
-            <div class="widget get-in-touch col-md-4 col-sm-6">
-                <h4 class="widget_title">Dove siamo</h4>
-                <div class="widget-contact-list">
-                    <ul>
-                        <li>
-                            <i class="fa fa-map-marker"></i>
-                            <div class="fleft location_address">
-                                <b>Residence Uliveto</b><br>Via Monte Baldo, 35 - 37016 Garda (Vr), Italy
-                            </div>
+            <!-- <div class="widget get-in-touch col-md-4 col-sm-6">
+                            <h4 class="widget_title">Dove siamo</h4>
+                            <div class="widget-contact-list">
+                                <ul>
+                                    <li>
+                                        <i class="fa fa-map-marker"></i>
+                                        <div class="fleft location_address">
+                                            <b>Residence Uliveto</b><br>Via Monte Baldo, 35 - 37016 Garda (Vr), Italy
+                                        </div>
 
-                        </li>
-                        <li>
-                            <i class="fa fa-phone"></i>
-                            <div class="fleft contact_no">
-                                <a href="tel:+393468689410">Tel. +39 346 8689410</a>  /  <a href="tel:+390456270477">Fax +39 045 6270477</a>
-                            </div>
-                        </li>
-                        <li>
-                            <i class="fa fa-envelope-o"></i>
-                            <div class="fleft contact_mail">
-                                <a href="mailto:info@resorthotel.com">info@residenceuliveto.it</a>
-                            </div>
-                        </li>
+                                    </li>
+                                    <li>
+                                        <i class="fa fa-phone"></i>
+                                        <div class="fleft contact_no">
+                                            <a href="tel:+393468689410">Tel. +39 346 8689410</a>  /  <a href="tel:+390456270477">Fax +39 045 6270477</a>
+                                        </div>
+                                    </li>
+                                    <li>
+                                        <i class="fa fa-envelope-o"></i>
+                                        <div class="fleft contact_mail">
+                                            <a href="mailto:info@resorthotel.com">info@residenceuliveto.it</a>
+                                        </div>
+                                    </li>
 
-                    </ul>
-                </div>
-            </div>
+                                </ul>
+                            </div>
+                        </div> -->
         </section>
     </section>
     <section class="container clearfix footer-b-pad">

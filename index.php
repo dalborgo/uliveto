@@ -24,13 +24,23 @@
     <!--[if lt IE 9]>
     <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
     <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <script src="js/ext-lang-it.js"></script>
+    <script type="text/javascript" src="http://jquery-ui.googlecode.com/svn/trunk/ui/i18n/jquery.ui.datepicker-it.js"></script>
     <![endif]-->
 </head>
 <body>
 <?php include_once "header.php" ?>
-<div id="minimal-bootstrap-carousel" class="carousel default-home-slider slide carousel-fade shop-slider"
+<div style="width: 100%;text-align: center;background-color: #EDF0F3" class="hidden-xs">
+    <!--    onclick="if(this.paused){this.play();}else{this.pause();}"
+    poster="video/poster.png"
+    -->
+    <video autoplay id="video" style="" preload onloadstart="this.volume=0" loop>
+        <source src="video/uliveto.mp4" type='video/mp4; codecs="avc1.64001E, mp4a.40.2"'>
+    </video>
+</div>
+
+<div id="minimal-bootstrap-carousel" class="carousel default-home-slider slide carousel-fade shop-slider visible-xs hidden-sm"
      data-ride="carousel">
-    <!-- Wrapper for slides -->
     <div class="carousel-inner" role="listbox">
         <div class="item active slide-1"
              style="background-image: url(images/slider/home1.jpg);backgroudn-position: center right;">
@@ -38,8 +48,7 @@
                 <div class="thm-container">
                     <div class="box valign-middle">
                         <div class="content text-center">
-                            <h2 data-animation="animated fadeInUp" class="this-title titolo" id="tit1">Residence
-                                Uliveto</h2>
+                            <h2 data-animation="animated fadeInUp" class="this-title">Residence Uliveto</h2>
                         </div>
                     </div>
                 </div>
@@ -50,9 +59,8 @@
             <div class="carousel-caption nhs-caption nhs-caption7">
                 <div class="thm-container">
                     <div class="box valign-middle">
-                        <div class="content text-left text-center"> <!-- pull-left -->
-                            <h2 data-animation="animated fadeInUp" class="this-title titolo" id="tit2">Residence
-                                Uliveto</h2>
+                        <div class="content text-center">
+                            <h2 data-animation="animated fadeInUp" class="this-title">Residence Uliveto</h2>
                         </div>
                     </div>
                 </div>
@@ -60,19 +68,18 @@
         </div>
         <div class="item  slide-2"
              style="background-image: url(images/slider/home3.jpg);backgroudn-position: center right;">
-            <div class="carousel-caption nhs-caption nhs-caption8">
+            <div class="carousel-caption nhs-caption nhs-caption7">
                 <div class="thm-container">
                     <div class="box valign-middle">
                         <div class="content text-center">
-                            <h2 data-animation="animated fadeInUp" class="this-title titolo" id="tit3">Residence
-                                Uliveto</h2>
+                            <h2 data-animation="animated fadeInUp" class="this-title">Residence Uliveto</h2>
                         </div>
                     </div>
                 </div>
             </div>
         </div>
     </div>
-    <!-- Controls -->
+
     <a class="left carousel-control" href="#minimal-bootstrap-carousel" role="button" data-slide="prev">
         <i class="fa fa-angle-left"></i>
         <span class="sr-only">Previous</span>
@@ -82,6 +89,8 @@
         <span class="sr-only">Next</span>
     </a>
 </div>
+
+
 <!-- Header  Slider style-->
 <!-- Search style-->
 <div class="search-wrapper">
@@ -89,35 +98,40 @@
         <div class="search-sec search-sec-homet">
             <div class="overlay">
                 <div class="border">
-                    <div class="ser-in-box"><input class="form-control datepicker-example8" placeholder="Data Arrivo"
-                                                   type="text"></div>
-                    <div class="ser-in-box"><input type="text" class="form-control datepicker-example8"
-                                                   placeholder="Data Partenza"></div>
-                    <div class="ser-in-box">
-                        <div class="select-box">
-                            <select class="select-menu" name="selectMenu">
-                                <option value="default">Adulti</option>
-                                <option value="1">1</option>
-                                <option value="2">2</option>
-                                <option value="3">3</option>
-                                <option value="4">4</option>
-                            </select>
+                    <form target="_blank" action="https://secure.kosmosol.it/booking/check-availability.php?h=panorama-torridelbenaco&l=it" method="get" id="5stelle">
+
+
+                        <div class="ser-in-box"><input class="form-control datepicker-example8"
+                                                       placeholder="Data Arrivo"
+                                                       type="text" name="bd" id="bd"></div>
+                        <div class="ser-in-box"><input type="text" class="form-control datepicker-example8"
+                                                       placeholder="Data Partenza" name="ed" id="ed"></div>
+                        <!--<div class="ser-in-box">
+                            <div class="select-box">
+                                <select class="select-menu" name="selectMenu">
+                                    <option value="default">Adulti</option>
+                                    <option value="1">1</option>
+                                    <option value="2">2</option>
+                                    <option value="3">3</option>
+                                    <option value="4">4</option>
+                                </select>
+                            </div>
                         </div>
-                    </div>
-                    <div class="ser-in-box">
-                        <div class="select-box">
-                            <select class="select-menu" name="selectMenu">
-                                <option value="default">Bambini</option>
-                                <option value="1">1</option>
-                                <option value="2">2</option>
-                                <option value="3">3</option>
-                                <option value="4">4</option>
-                            </select>
+                        <div class="ser-in-box">
+                            <div class="select-box">
+                                <select class="select-menu" name="selectMenu">
+                                    <option value="default">Bambini</option>
+                                    <option value="1">1</option>
+                                    <option value="2">2</option>
+                                    <option value="3">3</option>
+                                    <option value="4">4</option>
+                                </select>
+                            </div>
+                        </div>-->
+                        <div class="ser-in-box3">
+                            <button type="submit" class="res-btn " id="subm">Vedi Disponibilità</button>
                         </div>
-                    </div>
-                    <div class="ser-in-box chk-button">
-                        <button type="submit" class="res-btn">Vedi Disponibilità</button>
-                    </div>
+                    </form>
                 </div>
             </div>
         </div>
@@ -493,10 +507,16 @@
 
 
         </div>
+
     </div>
+
 </div>
 
+<!-- <video controls width="100%" height="100%" poster="video/poster.png" id="video" onclick="if(this.paused){this.play();}else{this.pause();}" style="cursor: pointer;margin-bottom:-5px;">
+     <source src="video/uliveto.mp4"  type='video/mp4; codecs="avc1.64001E, mp4a.40.2"'>
+ </video>
 
+-->
 <!-- Get in Touch & Drop a Message style   -->
 <!-- Welcome banner  style-->
 

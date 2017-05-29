@@ -43,10 +43,14 @@
                             <li><a href="#">Quadrilocale</a></li>
 						</ul>
                     </li>-->
-                    <li><a href="listino.php">Listino</a></li>
+
                     <li><a href="activities.php">Luoghi ed eventi</a></li>
                     <li><a href="gallery.php">Galleria</a></li>
                     <li><a href="contact.php">Contatti</a></li>
+                    <li><a href="prenota.php" style="color:#146E4E"><mark>Prenota Ora</mark></a></li>
+                    <li><a href="#" title="Italiano"><img src="images/ita.gif" alt="Italiano" style="margin-left: 0px;margin-right 5px;margin-top:-4px;" width="20"></a></li>
+                    <li><a href="#" title="Deutsch"><img src="images/ger.gif" alt="Deutsch" style="margin-left: 0px;margin-right 5px;margin-top:-4px" width="20"></a></li>
+                    <li><a href="#" title="English"><img src="images/eng.gif" alt="English" style="margin-left: 0px;margin-right 5px;margin-top:-4px" width="20"></a></li>
                 </ul>
             </div>
         </div>

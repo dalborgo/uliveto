@@ -791,25 +791,27 @@ header {
 ============================== */
 .search-sec {
     background: #0d1a41;
-    position: absolute;
     z-index: 1;
     margin-top: -3em;
-    width: 97.5%;
+    width: 70%;
+    margin:auto;
 }
 .search-wrapper .container {
     position: relative;
+    text-align: center;
 }
 .search-sec .overlay {
     padding: 10px;
     overflow: hidden;
 }
 .search-sec .overlay .border {
-    border: 1px solid rgba(255, 255, 255, 0.3);
+    border: 1px solid #000;
     overflow: hidden;
     padding: 2.3em 2.5em;
+    background-color: lightgray;
+    text-align: center;
 }
 .ser-in-box {
-    width: 20%;
     float: left;
     position: relative;
 }
@@ -820,8 +822,8 @@ header {
     letter-spacing: 0.6px;
 }
 .search-sec .res-btn:hover {
-    background: #fff;
-    color: #1a1a1c;
+    background: #642123 none repeat scroll 0 0;
+    color: #fff;
 }
 .search-sec .form-control[readonly] {
     background-color: #fff;
@@ -932,7 +934,11 @@ header {
     height: 100%;
     top: 0;
     left: 0;
-    background: #85ab00;
+
+    /*region mod*/
+    /*background: #85ab00;*/
+    /*endregion*/
+
     padding: 10px;
     transform: scale(0, 0);
     -webkit-transform: scale(0, 0);
@@ -3841,7 +3847,7 @@ blockquote footer a {
     background: #85ab00;
 }
 .book-r-form .book-form .res-btn:hover {
-    background: #1a1a1c;
+    background: #642123;
 }
 .single-room-wrapper {
     position: relative;
@@ -8440,12 +8446,12 @@ body {
     }
     #main-navigation-wrapper .nav > li > a {
         display: block;
-        padding: 15px 15px;
+        padding: 8px 15px 8px 15px;
         width: 100%;
         position: relative;
     }
     #main-navigation-wrapper .nav > li + li > a {
-        padding: 15px 15px;
+        padding: 8px 15px 8px 15px;
         border-top: 1px dashed rgba(255, 255, 255, 0.4);
         position: relative;
     }
@@ -8871,7 +8877,7 @@ body {
 table#listino span {
     font-size: small;
 }
-div#regolamento {
+div.regolamento {
     margin-top: 3em;
 }
 div#listinodesc {
@@ -8887,4 +8893,36 @@ h2#tit1, h2#tit2, h2#tit3 {
 
 #accordion ul li{
     color: #898989;
+}
+
+#video {
+    width:100%;
+}
+#5stelle{
+    margin:auto
+}
+
+
+.ser-in-box3 button{
+
+}
+
+ul.special, ul.special li{
+    color: #898989;
+    list-style-type: disc;
+    list-style-position: outside;
+    margin-left: 20px;
+    padding-top: 10px;
+    font-size: 11pt;
+}
+mark {
+    background-color: #85AB00;
+    color: #fff;
+    padding: 3px;
+    transition: all 0.5s ease 0s;
+}
+mark:hover {
+    background-color: #642123;
+    color: #fff;
+    padding: 3px;
 }

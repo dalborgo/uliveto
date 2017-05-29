@@ -58,45 +58,14 @@
                     </div>
                     <div class="book-form">
                         <div class="col-md-12"><b>Arrivo</b><span class="Zebra_DatePicker_Icon_Wrapper"
-                                                                  style="display: block; position: relative; float: none; top: auto; right: auto; bottom: auto; left: auto;"><input
+                                                                  ><input
                                         class="form-control datepicker-example8" placeholder="Data Arrivo"
-                                        readonly="readonly"
-                                        style="position: relative; top: auto; right: auto; bottom: auto; left: auto;"
-                                        type="text"><button type="button"
-                                                            class="Zebra_DatePicker_Icon Zebra_DatePicker_Icon_Inside"
-                                                            style="top: 11.5px; left: 268px;">Scegli una data</button></span>
+                                        type="text" name="bd" id="bd">
                         </div>
                         <div class="col-md-12"><b>Partenza</b><span class="Zebra_DatePicker_Icon_Wrapper"
                                                                      style="display: block; position: relative; float: none; top: auto; right: auto; bottom: auto; left: auto;"><input
                                         class="form-control datepicker-example8" placeholder="Data Partenza"
-                                        readonly="readonly"
-                                        style="position: relative; top: auto; right: auto; bottom: auto; left: auto;"
-                                        type="text"><button type="button"
-                                                            class="Zebra_DatePicker_Icon Zebra_DatePicker_Icon_Inside"
-                                                            style="top: 11.5px; left: 268px;">Scegli una data</button></span>
-                        </div>
-                        <div class="col-md-12">
-                            <b>Adulti</b>
-                            <div class="select-box">
-                                <select class="select-menu" name="selectMenu" id="ui-id-1" style="display: none;">
-                                    <option value="default">Adulti</option>
-                                    <option value="1">1</option>
-                                    <option value="2">2</option>
-                                    <option value="3">3</option>
-                                    <option value="4">4</option>
-                                </select>
-                            </div>
-                        </div>
-                        <div class="col-md-12"><b>Bambini</b>
-                            <div class="select-box">
-                                <select class="select-menu" name="selectMenu" id="ui-id-2" style="display: none;">
-                                    <option value="default">Bambini</option>
-                                    <option value="1">1</option>
-                                    <option value="2">2</option>
-                                    <option value="3">3</option>
-                                    <option value="4">4</option>
-                                </select>
-                            </div>
+                                        type="text" name="ed" id="ed"></span>
                         </div>
                         <div class="col-md-12">
                             <div class="chk-button">
